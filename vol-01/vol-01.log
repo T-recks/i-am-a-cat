@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.12.13)  16 DEC 2017 01:19
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.12.13)  16 DEC 2017 02:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1004,8 +1004,7 @@ File: xeCJK.cfg 2017/08/07 v3.5.0 Configuration file for xeCJK package
 . - 'normal' (m/n) with NFSS spec.: <->"Unifont/OT"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-
-No file vol-01.aux.
+ (./vol-01.aux)
 \openout1 = `vol-01.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
@@ -1024,6 +1023,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 27.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 27.
+
 (/usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
@@ -1092,54 +1092,479 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
  [1
 
 
-] [2
+] [2] [3] [4] [5] [6]
+[7] [8] [9] [10] [11
 
-]
+] [12] [13] [14] [15] [16] [17] [18] [19]
+Overfull \hbox (1.28381pt too wide) in paragraph at lines 1197--1237
+\TU/Crimson(0)/m/n/10 be fatal to be caught in this predicament, I redouble my 
+efforts and am positively running
+ []
+
+[20] [21] [22]
+Overfull \hbox (1.9983pt too wide) in paragraph at lines 1401--1419
+\TU/Crimson(0)/m/n/10 back again on the dry chrysanthemums, yawning his spine i
+nto a high, black arch. Nowa-
+ []
+
+[23] [24] [25] [26] [27] [28]
+Overfull \hbox (12.56361pt too wide) in paragraph at lines 1821--1825
+[]\TU/Crimson(0)/m/n/10 “Really? You, the boatman!” My master’s tone was such a
+s to suggest that, if Beauchamp
+ []
+
+[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43]
+Overfull \hbox (0.32957pt too wide) in paragraph at lines 2857--2878
+\TU/Crimson(0)/m/n/10 of his nature that I did not understand. But having heard
+ his story, my uncertainties sud-
+ []
+
+[44] [45] [46] [47] [48
+
+] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58]
+[59] [60]
+Overfull \hbox (5.71783pt too wide) in paragraph at lines 3927--3929
+[]\TU/Crimson(0)/m/n/10 When the ceremonials of her self-introduction had been 
+completed, she glared around
+ []
+
+[61]
+Overfull \hbox (3.08736pt too wide) in paragraph at lines 3947--3950
+[]\TU/Crimson(0)/m/n/10 Madam Conk, dissatisfied with this development, bestirs
+ herself again. “I live nearby.
+ []
+
+[62] [63]
+Overfull \hbox (0.10472pt too wide) in paragraph at lines 4112--4119
+\TU/Crimson(0)/m/n/10 burst into gales of laughter. Madam Conk, baulked in her 
+expectations and, ill-prepared
+ []
+
+[64]
+Overfull \hbox (3.94673pt too wide) in paragraph at lines 4211--4214
+\TU/Crimson(0)/m/n/10 Coldmoon, eh?” Even Waverhouse seems to be getting annoye
+d for he uses some sharpish
+ []
+
+[65] [66] [67]
+Overfull \hbox (0.1454pt too wide) in paragraph at lines 4404--4411
+[]\TU/Crimson(0)/m/n/10 Waverhouse thereupon addressed her in a loud voice thro
+ugh the sliding door. “That,
+ []
+
+[68] [69] [70] [71] [72] [73] [74] [75] [76]
+Overfull \hbox (4.03586pt too wide) in paragraph at lines 5052--5056
+\TU/Crimson(0)/m/n/10 known lecturer on the mechanics of hanging, that leading 
+bachelor of science, Mr. Avalon
+ []
+
+[77] [78] [79] [80] [81] [82]
 
 LaTeX Font Warning: Font shape `TU/ipamp.ttf(0)/bx/n' undefined
-(Font)              using `TU/ipamp.ttf(0)/m/n' instead on input line 37.
+(Font)              using `TU/ipamp.ttf(0)/m/n' instead on input line 5395.
 
 
 LaTeX Font Warning: Font shape `TU/ipamp.ttf(0)/m/it' undefined
-(Font)              using `TU/ipamp.ttf(0)/m/n' instead on input line 45.
+(Font)              using `TU/ipamp.ttf(0)/m/n' instead on input line 5403.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--62
-
- []
-
-[3] [4] [5] [6] [7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+Underfull \hbox (badness 10000) in paragraph at lines 5396--5420
 
  []
 
+[83
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+] [84] [85] [86] [87] [88]
+Underfull \hbox (badness 10000) in paragraph at lines 5421--5422
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 5423--5424
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--75
+Underfull \hbox (badness 10000) in paragraph at lines 5425--5426
 
  []
 
-[9] [10] [11] (./vol-01.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 5427--5433
+
+ []
+
+[89] [90] [91] [92
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 5434--5443
+
+ []
+
+[93] [94] [95] [96]
+Underfull \hbox (badness 10000) in paragraph at lines 5444--5445
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5446--5447
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5448--5449
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5450--5451
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5452--5453
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5454--5455
+
+ []
+
+[97]
+Missing character: There is no △ in font Crimson Roman/OT:script=latn;language=
+DFLT;mapping=tex-text;!
+Missing character: There is no △ in font Crimson Roman/OT:script=latn;language=
+DFLT;mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 5456--5457
+
+ []
+
+
+LaTeX Warning: File `../../../gaiji/2-92/2-92-68.png' not found on input line 5
+459.
+
+! Unable to load picture or PDF file '../../../gaiji/2-92/2-92-68.png'.
+<to be read again> 
+                   }
+l.5459 ...raphics{../../../gaiji/2-92/2-92-68.png}
+                                                  （あん）もなめる�...
+
+? 
+File: ../../../gaiji/2-92/2-92-68.png Graphic file (type bmp)
+<../../../gaiji/2-92/2-92-68.png>
+
+LaTeX Warning: File `../../../gaiji/1-92/1-92-39.png' not found on input line 5
+462.
+
+! Unable to load picture or PDF file '../../../gaiji/1-92/1-92-39.png'.
+<to be read again> 
+                   }
+l.5462 ...raphics{../../../gaiji/1-92/1-92-39.png}
+                                                  躇（ちゅうちょ）�...
+
+? 
+File: ../../../gaiji/1-92/1-92-39.png Graphic file (type bmp)
+<../../../gaiji/1-92/1-92-39.png>
+
+LaTeX Warning: File `../../../gaiji/1-87/1-87-64.png' not found on input line 5
+468.
+
+! Unable to load picture or PDF file '../../../gaiji/1-87/1-87-64.png'.
+<to be read again> 
+                   }
+l.5468 ...raphics{../../../gaiji/1-87/1-87-64.png}
+                                                  （だいきえん）で�...
+
+? 
+File: ../../../gaiji/1-87/1-87-64.png Graphic file (type bmp)
+<../../../gaiji/1-87/1-87-64.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 5458--5471
+
+ []
+
+[98] [99] [100] [101] [102] [103] [104] [105] [106]
+Underfull \hbox (badness 10000) in paragraph at lines 5472--5473
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5474--5475
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5476--5477
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5478--5479
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5480--5481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5482--5483
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5484--5485
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5486--5487
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5488--5489
+
+ []
+
+[107]
+Underfull \hbox (badness 10000) in paragraph at lines 5490--5491
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5492--5493
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5494--5495
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5496--5497
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5498--5499
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5500--5501
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5502--5503
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5504--5505
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5506--5507
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5508--5509
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5510--5511
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5512--5513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5514--5515
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5516--5517
+
+ []
+
+[108]
+Underfull \hbox (badness 10000) in paragraph at lines 5518--5519
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5520--5521
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5522--5523
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5524--5525
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5526--5527
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5528--5529
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5530--5531
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5532--5533
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5534--5535
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5536--5537
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5538--5539
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5540--5541
+
+ []
+
+[109]
+
+LaTeX Warning: File `../../../gaiji/2-92/2-92-71.png' not found on input line 5
+546.
+
+! Unable to load picture or PDF file '../../../gaiji/2-92/2-92-71.png'.
+<to be read again> 
+                   }
+l.5546 ...raphics{../../../gaiji/2-92/2-92-71.png}
+                                                  （ごぜん）をいた�...
+
+? 
+File: ../../../gaiji/2-92/2-92-71.png Graphic file (type bmp)
+<../../../gaiji/2-92/2-92-71.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 5542--5564
+
+ []
+
+[110] [111]
+Underfull \hbox (badness 10000) in paragraph at lines 5565--5566
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5567--5636
+
+ []
+
+[112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122
+
+]
+
+LaTeX Warning: File `../../../gaiji/1-87/1-87-40.png' not found on input line 5
+638.
+
+! Unable to load picture or PDF file '../../../gaiji/1-87/1-87-40.png'.
+<to be read again> 
+                   }
+l.5638 ...raphics{../../../gaiji/1-87/1-87-40.png}
+                                                  （こういっしゅ）�...
+
+? 
+File: ../../../gaiji/1-87/1-87-40.png Graphic file (type bmp)
+<../../../gaiji/1-87/1-87-40.png>
+
+LaTeX Warning: File `../../../gaiji/1-87/1-87-40.png' not found on input line 5
+638.
+
+File: ../../../gaiji/1-87/1-87-40.png Graphic file (type bmp)
+<../../../gaiji/1-87/1-87-40.png>
+
+LaTeX Warning: File `../../../gaiji/1-87/1-87-40.png' not found on input line 5
+638.
+
+File: ../../../gaiji/1-87/1-87-40.png Graphic file (type bmp)
+<../../../gaiji/1-87/1-87-40.png>
+
+LaTeX Warning: File `../../../gaiji/1-87/1-87-40.png' not found on input line 5
+639.
+
+File: ../../../gaiji/1-87/1-87-40.png Graphic file (type bmp)
+<../../../gaiji/1-87/1-87-40.png>
+
+LaTeX Warning: File `../../../gaiji/1-06/1-06-84.png' not found on input line 5
+646.
+
+! Unable to load picture or PDF file '../../../gaiji/1-06/1-06-84.png'.
+<to be read again> 
+                   }
+l.5646 ...raphics{../../../gaiji/1-06/1-06-84.png}
+                                                  リーシャスの援（�...
+
+? 
+File: ../../../gaiji/1-06/1-06-84.png Graphic file (type bmp)
+<../../../gaiji/1-06/1-06-84.png>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5647.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5647.
+
+LaTeX Warning: File `../../../gaiji/1-06/1-06-84.png' not found on input line 5
+653.
+
+File: ../../../gaiji/1-06/1-06-84.png Graphic file (type bmp)
+<../../../gaiji/1-06/1-06-84.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 5637--5674
+
+ []
+
+[123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133] [134]
+[135] [136] [137] [138] [139] [140] [141] [142] [143] [144] [145] (./vol-01.aux
+)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 18059 strings out of 493010
- 375800 string characters out of 6140133
- 622923 words of memory out of 5000000
- 21968 multiletter control sequences out of 15000+600000
- 533414 words of font info for 42 fonts, out of 8000000 for 9000
+ 18158 strings out of 493010
+ 380538 string characters out of 6140133
+ 1224923 words of memory out of 5000000
+ 22050 multiletter control sequences out of 15000+600000
+ 533438 words of font info for 45 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 46i,4n,65p,10410b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,5n,65p,10410b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on vol-01.pdf (11 pages).
+Output written on vol-01.pdf (145 pages).
