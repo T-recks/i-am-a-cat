@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.12.13)  16 DEC 2017 02:01
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.12.13)  17 DEC 2017 13:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -49,6 +49,40 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@pangramcount=\count104
 \c@blind@pangrammax=\count105
 )
+(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2017/03/11 v5.2b context-sensitive quotations (JAW)
+
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count106
+)
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\csq@reset=\count107
+\csq@gtype=\count108
+\csq@glevel=\count109
+\csq@qlevel=\count110
+\csq@maxlvl=\count111
+\csq@tshold=\count112
+\csq@ltx@everypar=\toks15
+
+(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2017/03/11 v5.2b csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
 (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
@@ -68,18 +102,18 @@ Package: expl3 2017/11/14 L3 programming layer (loader)
 
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2017/11/14 L3 programming layer (code)
-\c_max_int=\count106
-\l_tmpa_int=\count107
-\l_tmpb_int=\count108
-\g_tmpa_int=\count109
-\g_tmpb_int=\count110
-\g__intarray_font_int=\count111
-\g__prg_map_int=\count112
-\c_log_iow=\count113
-\l_iow_line_count_int=\count114
-\l__iow_line_target_int=\count115
-\l__iow_one_indent_int=\count116
-\l__iow_indent_int=\count117
+\c_max_int=\count113
+\l_tmpa_int=\count114
+\l_tmpb_int=\count115
+\g_tmpa_int=\count116
+\g_tmpb_int=\count117
+\g__intarray_font_int=\count118
+\g__prg_map_int=\count119
+\c_log_iow=\count120
+\l_iow_line_count_int=\count121
+\l__iow_line_target_int=\count122
+\l__iow_one_indent_int=\count123
+\l__iow_indent_int=\count124
 \c_zero_dim=\dimen103
 \c_max_dim=\dimen104
 \l_tmpa_dim=\dimen105
@@ -98,72 +132,72 @@ Package: expl3 2017/11/14 L3 programming layer (code)
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count118
-\c__fp_leading_shift_int=\count119
-\c__fp_middle_shift_int=\count120
-\c__fp_trailing_shift_int=\count121
-\c__fp_big_leading_shift_int=\count122
-\c__fp_big_middle_shift_int=\count123
-\c__fp_big_trailing_shift_int=\count124
-\c__fp_Bigg_leading_shift_int=\count125
-\c__fp_Bigg_middle_shift_int=\count126
-\c__fp_Bigg_trailing_shift_int=\count127
-\l__sort_length_int=\count128
-\l__sort_min_int=\count129
-\l__sort_top_int=\count130
-\l__sort_max_int=\count131
-\l__sort_true_max_int=\count132
-\l__sort_block_int=\count133
-\l__sort_begin_int=\count134
-\l__sort_end_int=\count135
-\l__sort_A_int=\count136
-\l__sort_B_int=\count137
-\l__sort_C_int=\count138
-\l__tl_build_start_index_int=\count139
-\l__tl_build_index_int=\count140
-\l__tl_analysis_normal_int=\count141
-\l__tl_analysis_index_int=\count142
-\l__tl_analysis_nesting_int=\count143
-\l__tl_analysis_type_int=\count144
-\l__regex_internal_a_int=\count145
-\l__regex_internal_b_int=\count146
-\l__regex_internal_c_int=\count147
-\l__regex_balance_int=\count148
-\l__regex_group_level_int=\count149
-\l__regex_mode_int=\count150
-\c__regex_cs_in_class_mode_int=\count151
-\c__regex_cs_mode_int=\count152
-\l__regex_catcodes_int=\count153
-\l__regex_default_catcodes_int=\count154
-\c__regex_catcode_L_int=\count155
-\c__regex_catcode_O_int=\count156
-\c__regex_catcode_A_int=\count157
-\c__regex_all_catcodes_int=\count158
-\l__regex_show_lines_int=\count159
-\l__regex_min_state_int=\count160
-\l__regex_max_state_int=\count161
-\l__regex_left_state_int=\count162
-\l__regex_right_state_int=\count163
-\l__regex_capturing_group_int=\count164
-\l__regex_min_pos_int=\count165
-\l__regex_max_pos_int=\count166
-\l__regex_curr_pos_int=\count167
-\l__regex_start_pos_int=\count168
-\l__regex_success_pos_int=\count169
-\l__regex_curr_char_int=\count170
-\l__regex_curr_catcode_int=\count171
-\l__regex_last_char_int=\count172
-\l__regex_case_changed_char_int=\count173
-\l__regex_curr_state_int=\count174
-\l__regex_step_int=\count175
-\l__regex_min_active_int=\count176
-\l__regex_max_active_int=\count177
-\l__regex_replacement_csnames_int=\count178
-\l__regex_match_count_int=\count179
-\l__regex_min_submatch_int=\count180
-\l__regex_submatch_int=\count181
-\l__regex_zeroth_submatch_int=\count182
-\g__debug_trace_regex_int=\count183
+\l_keys_choice_int=\count125
+\c__fp_leading_shift_int=\count126
+\c__fp_middle_shift_int=\count127
+\c__fp_trailing_shift_int=\count128
+\c__fp_big_leading_shift_int=\count129
+\c__fp_big_middle_shift_int=\count130
+\c__fp_big_trailing_shift_int=\count131
+\c__fp_Bigg_leading_shift_int=\count132
+\c__fp_Bigg_middle_shift_int=\count133
+\c__fp_Bigg_trailing_shift_int=\count134
+\l__sort_length_int=\count135
+\l__sort_min_int=\count136
+\l__sort_top_int=\count137
+\l__sort_max_int=\count138
+\l__sort_true_max_int=\count139
+\l__sort_block_int=\count140
+\l__sort_begin_int=\count141
+\l__sort_end_int=\count142
+\l__sort_A_int=\count143
+\l__sort_B_int=\count144
+\l__sort_C_int=\count145
+\l__tl_build_start_index_int=\count146
+\l__tl_build_index_int=\count147
+\l__tl_analysis_normal_int=\count148
+\l__tl_analysis_index_int=\count149
+\l__tl_analysis_nesting_int=\count150
+\l__tl_analysis_type_int=\count151
+\l__regex_internal_a_int=\count152
+\l__regex_internal_b_int=\count153
+\l__regex_internal_c_int=\count154
+\l__regex_balance_int=\count155
+\l__regex_group_level_int=\count156
+\l__regex_mode_int=\count157
+\c__regex_cs_in_class_mode_int=\count158
+\c__regex_cs_mode_int=\count159
+\l__regex_catcodes_int=\count160
+\l__regex_default_catcodes_int=\count161
+\c__regex_catcode_L_int=\count162
+\c__regex_catcode_O_int=\count163
+\c__regex_catcode_A_int=\count164
+\c__regex_all_catcodes_int=\count165
+\l__regex_show_lines_int=\count166
+\l__regex_min_state_int=\count167
+\l__regex_max_state_int=\count168
+\l__regex_left_state_int=\count169
+\l__regex_right_state_int=\count170
+\l__regex_capturing_group_int=\count171
+\l__regex_min_pos_int=\count172
+\l__regex_max_pos_int=\count173
+\l__regex_curr_pos_int=\count174
+\l__regex_start_pos_int=\count175
+\l__regex_success_pos_int=\count176
+\l__regex_curr_char_int=\count177
+\l__regex_curr_catcode_int=\count178
+\l__regex_last_char_int=\count179
+\l__regex_case_changed_char_int=\count180
+\l__regex_curr_state_int=\count181
+\l__regex_step_int=\count182
+\l__regex_min_active_int=\count183
+\l__regex_max_active_int=\count184
+\l__regex_replacement_csnames_int=\count185
+\l__regex_match_count_int=\count186
+\l__regex_min_submatch_int=\count187
+\l__regex_submatch_int=\count188
+\l__regex_zeroth_submatch_int=\count189
+\g__debug_trace_regex_int=\count190
 \c_empty_box=\box26
 \l_tmpa_box=\box27
 \l_tmpb_box=\box28
@@ -207,33 +241,33 @@ Package: expl3 2017/11/14 L3 programming layer (code)
 )
 (/usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
 File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
-\g__driver_image_int=\count184
+\g__driver_image_int=\count191
 \l__driver_tmp_box=\box41
 ))
 Package: xparse 2017/11/14 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count185
-\g__xparse_grabber_int=\count186
-\l__xparse_m_args_int=\count187
-\l__xparse_mandatory_args_int=\count188
-\l__xparse_v_nesting_int=\count189
+\l__xparse_current_arg_int=\count192
+\g__xparse_grabber_int=\count193
+\l__xparse_m_args_int=\count194
+\l__xparse_mandatory_args_int=\count195
+\l__xparse_v_nesting_int=\count196
 )
 Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
 
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count190
-\l__fontspec_language_int=\count191
-\l__fontspec_strnum_int=\count192
-\l__fontspec_tmp_int=\count193
-\l__fontspec_em_int=\count194
-\l__fontspec_emdef_int=\count195
-\l__fontspec_strong_int=\count196
-\l__fontspec_strongdef_int=\count197
+\l__fontspec_script_int=\count197
+\l__fontspec_language_int=\count198
+\l__fontspec_strnum_int=\count199
+\l__fontspec_tmp_int=\count266
+\l__fontspec_em_int=\count267
+\l__fontspec_emdef_int=\count268
+\l__fontspec_strong_int=\count269
+\l__fontspec_strongdef_int=\count270
 \l__fontspec_tmpa_dim=\dimen134
 \l__fontspec_tmpb_dim=\dimen135
 \l__fontspec_tmpc_dim=\dimen136
-\g__file_internal_ior=\read1
+\g__file_internal_ior=\read2
 
 (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
@@ -435,7 +469,7 @@ LaTeX Info: Redefining \- on input line 4015.
 (/usr/share/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
 Package: newunicodechar 2012/11/12 v1.1 Defining Unicode characters
 )
-\g__fontspec_family_Crimson_int=\count198
+\g__fontspec_family_Crimson_int=\count271
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -459,7 +493,7 @@ Package: newunicodechar 2012/11/12 v1.1 Defining Unicode characters
 . <->"Crimson/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
-LaTeX Info: Redefining \rmfamily on input line 9.
+LaTeX Info: Redefining \rmfamily on input line 11.
 
 (/usr/share/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
 Package: xeCJK 2017/08/07 v3.5.0 Typesetting CJK scripts with XeLaTeX
@@ -467,14 +501,14 @@ Package: xeCJK 2017/08/07 v3.5.0 Typesetting CJK scripts with XeLaTeX
 (/usr/share/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2017/11/14 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen137
-\l__xtemplate_tmp_int=\count199
+\l__xtemplate_tmp_int=\count272
 \l__xtemplate_tmp_muskip=\muskip16
 \l__xtemplate_tmp_skip=\skip49
 )
 (/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2017/11/14 LaTeX2e option processing using LaTeX3 keys
 )
-\l__xeCJK_tmp_int=\count266
+\l__xeCJK_tmp_int=\count273
 \l__xeCJK_tmp_box=\box42
 \l__xeCJK_tmp_dim=\dimen138
 \l__xeCJK_tmp_skip=\skip50
@@ -483,9 +517,9 @@ Package: l3keys2e 2017/11/14 LaTeX2e option processing using LaTeX3 keys
 . 
 . Defining command \xeCJKShipoutHook with sig. '' on line 148.
 .................................................
-\g__xeCJK_spacefactor_int=\count267
-\l__xeCJK_begin_int=\count268
-\l__xeCJK_end_int=\count269
+\g__xeCJK_spacefactor_int=\count274
+\l__xeCJK_begin_int=\count275
+\l__xeCJK_end_int=\count276
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -532,7 +566,7 @@ Package: l3keys2e 2017/11/14 LaTeX2e option processing using LaTeX3 keys
 . Defining command \xeCJKResetCharClass with sig. '' on line 636.
 .................................................
 \l__xeCJK_last_skip=\skip51
-\g__xeCJK_node_int=\count270
+\g__xeCJK_node_int=\count277
 \c__xeCJK_CJK_node_dim=\dimen139
 \c__xeCJK_CJK-space_node_dim=\dimen140
 \c__xeCJK_default_node_dim=\dimen141
@@ -546,7 +580,7 @@ Package: l3keys2e 2017/11/14 LaTeX2e option processing using LaTeX3 keys
 . 
 . Defining command \xeCJKnobreak with sig. '' on line 1466.
 .................................................
-\l__xeCJK_widow_penalty_int=\count271
+\l__xeCJK_widow_penalty_int=\count278
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -614,7 +648,7 @@ Package: l3keys2e 2017/11/14 LaTeX2e option processing using LaTeX3 keys
 . 
 . Defining command \setCJKfallbackfamilyfont with sig. 'mom' on line 2524.
 .................................................
-\g__xeCJK_family_int=\count272
+\g__xeCJK_family_int=\count279
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -676,9 +710,9 @@ Package: l3keys2e 2017/11/14 LaTeX2e option processing using LaTeX3 keys
 . 
 . Defining command \setCJKmathfont with sig. 'om' on line 3274.
 .................................................
-\l__xeCJK_fam_int=\count273
-\g__xeCJK_fam_allocation_int=\count274
-\l__xeCJK_verb_case_int=\count275
+\l__xeCJK_fam_int=\count280
+\g__xeCJK_fam_allocation_int=\count281
+\l__xeCJK_verb_case_int=\count282
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -704,17 +738,13 @@ LaTeX Font Info:    Font shape `TU/Crimson(0)/m/sl' in size <10> not available
 (Font)              Font shape `TU/Crimson(0)/m/it' tried instead on input line
  316.
 )
-\tipaTiiicode=\count276
-\tipasavetokens=\toks14
-\tipachecktokens=\toks15
+\tipaTiiicode=\count283
+\tipasavetokens=\toks18
+\tipachecktokens=\toks19
 
 (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
-)
 (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
@@ -960,7 +990,7 @@ File: xunicode-extra.def 2017/08/07 v3.5.0 extra definition for xunicode
 (/usr/share/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2017/08/07 v3.5.0 Configuration file for xeCJK package
 ))
-\g__fontspec_family_ipamp.ttf_int=\count277
+\g__fontspec_family_ipamp.ttf_int=\count284
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -978,7 +1008,7 @@ File: xeCJK.cfg 2017/08/07 v3.5.0 Configuration file for xeCJK package
 . 
 . Font "Unifont" does not contain any OpenType `Script' information.
 .................................................
-\g__fontspec_family_Unifont_int=\count278
+\g__fontspec_family_Unifont_int=\count285
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1004,30 +1034,32 @@ File: xeCJK.cfg 2017/08/07 v3.5.0 Configuration file for xeCJK package
 . - 'normal' (m/n) with NFSS spec.: <->"Unifont/OT"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... none found.
  (./vol-01.aux)
 \openout1 = `vol-01.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 27.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 30.
 
 (/usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    ... okay on input line 30.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -1035,60 +1067,60 @@ LaTeX Font Info:    ... okay on input line 27.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 27.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 27.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 27.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 27.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 27.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 27.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 27.
-LaTeX Font Info:    Redeclaring math accent \check on input line 27.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 27.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 27.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 27.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 27.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 30.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 30.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 30.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 30.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 30.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 30.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 30.
+LaTeX Font Info:    Redeclaring math accent \check on input line 30.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 30.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 30.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 30.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 27.
+(Font)              `operators' in the math version `normal' on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Crimson(0)/m/n on input line 27.
+(Font)                  OT1/cmr/m/n --> TU/Crimson(0)/m/n on input line 30.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 27.
+(Font)              `operators' in the math version `bold' on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Crimson(0)/m/n on input line 27.
+(Font)                  OT1/cmr/bx/n --> TU/Crimson(0)/m/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/Crimson(0)/m/n --> TU/Crimson(0)/m/n on input line 2
-7.
+(Font)                  TU/Crimson(0)/m/n --> TU/Crimson(0)/m/n on input line 3
+0.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Crimson(0)/m/it on input line 27.
+(Font)                  OT1/cmr/m/it --> TU/Crimson(0)/m/it on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Crimson(0)/bx/n on input line 27.
+(Font)                  OT1/cmr/bx/n --> TU/Crimson(0)/bx/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 27.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 27.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/Crimson(0)/m/n --> TU/Crimson(0)/bx/n on input line 
-27.
+30.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Crimson(0)/bx/it on input line 27.
+(Font)                  OT1/cmr/bx/it --> TU/Crimson(0)/bx/it on input line 30.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 27.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 27.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 30.
  [1
 
 
@@ -1096,25 +1128,25 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 [7] [8] [9] [10] [11
 
 ] [12] [13] [14] [15] [16] [17] [18] [19]
-Overfull \hbox (1.28381pt too wide) in paragraph at lines 1197--1237
+Overfull \hbox (1.28381pt too wide) in paragraph at lines 1200--1240
 \TU/Crimson(0)/m/n/10 be fatal to be caught in this predicament, I redouble my 
 efforts and am positively running
  []
 
 [20] [21] [22]
-Overfull \hbox (1.9983pt too wide) in paragraph at lines 1401--1419
+Overfull \hbox (1.9983pt too wide) in paragraph at lines 1404--1422
 \TU/Crimson(0)/m/n/10 back again on the dry chrysanthemums, yawning his spine i
 nto a high, black arch. Nowa-
  []
 
 [23] [24] [25] [26] [27] [28]
-Overfull \hbox (12.56361pt too wide) in paragraph at lines 1821--1825
+Overfull \hbox (12.56361pt too wide) in paragraph at lines 1824--1828
 []\TU/Crimson(0)/m/n/10 “Really? You, the boatman!” My master’s tone was such a
 s to suggest that, if Beauchamp
  []
 
 [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43]
-Overfull \hbox (0.32957pt too wide) in paragraph at lines 2857--2878
+Overfull \hbox (0.32957pt too wide) in paragraph at lines 2860--2881
 \TU/Crimson(0)/m/n/10 of his nature that I did not understand. But having heard
  his story, my uncertainties sud-
  []
@@ -1123,37 +1155,37 @@ Overfull \hbox (0.32957pt too wide) in paragraph at lines 2857--2878
 
 ] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58]
 [59] [60]
-Overfull \hbox (5.71783pt too wide) in paragraph at lines 3927--3929
+Overfull \hbox (5.71783pt too wide) in paragraph at lines 3930--3932
 []\TU/Crimson(0)/m/n/10 When the ceremonials of her self-introduction had been 
 completed, she glared around
  []
 
 [61]
-Overfull \hbox (3.08736pt too wide) in paragraph at lines 3947--3950
+Overfull \hbox (3.08736pt too wide) in paragraph at lines 3950--3953
 []\TU/Crimson(0)/m/n/10 Madam Conk, dissatisfied with this development, bestirs
  herself again. “I live nearby.
  []
 
 [62] [63]
-Overfull \hbox (0.10472pt too wide) in paragraph at lines 4112--4119
+Overfull \hbox (0.10472pt too wide) in paragraph at lines 4115--4122
 \TU/Crimson(0)/m/n/10 burst into gales of laughter. Madam Conk, baulked in her 
 expectations and, ill-prepared
  []
 
 [64]
-Overfull \hbox (3.94673pt too wide) in paragraph at lines 4211--4214
+Overfull \hbox (3.94673pt too wide) in paragraph at lines 4214--4217
 \TU/Crimson(0)/m/n/10 Coldmoon, eh?” Even Waverhouse seems to be getting annoye
 d for he uses some sharpish
  []
 
 [65] [66] [67]
-Overfull \hbox (0.1454pt too wide) in paragraph at lines 4404--4411
+Overfull \hbox (0.1454pt too wide) in paragraph at lines 4407--4414
 []\TU/Crimson(0)/m/n/10 Waverhouse thereupon addressed her in a loud voice thro
 ugh the sliding door. “That,
  []
 
 [68] [69] [70] [71] [72] [73] [74] [75] [76]
-Overfull \hbox (4.03586pt too wide) in paragraph at lines 5052--5056
+Overfull \hbox (4.03586pt too wide) in paragraph at lines 5055--5059
 \TU/Crimson(0)/m/n/10 known lecturer on the mechanics of hanging, that leading 
 bachelor of science, Mr. Avalon
  []
@@ -1161,410 +1193,151 @@ bachelor of science, Mr. Avalon
 [77] [78] [79] [80] [81] [82]
 
 LaTeX Font Warning: Font shape `TU/ipamp.ttf(0)/bx/n' undefined
-(Font)              using `TU/ipamp.ttf(0)/m/n' instead on input line 5395.
+(Font)              using `TU/ipamp.ttf(0)/m/n' instead on input line 5398.
 
 
 LaTeX Font Warning: Font shape `TU/ipamp.ttf(0)/m/it' undefined
-(Font)              using `TU/ipamp.ttf(0)/m/n' instead on input line 5403.
+(Font)              using `TU/ipamp.ttf(0)/m/n' instead on input line 5406.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5396--5420
+Underfull \hbox (badness 10000) in paragraph at lines 5399--5423
 
  []
 
 [83
 
 ] [84] [85] [86] [87] [88]
-Underfull \hbox (badness 10000) in paragraph at lines 5421--5422
+Underfull \hbox (badness 10000) in paragraph at lines 5424--5425
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5423--5424
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5425--5426
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5427--5433
+Underfull \hbox (badness 10000) in paragraph at lines 5426--5432
 
  []
 
 [89] [90] [91] [92
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 5434--5443
+Underfull \hbox (badness 10000) in paragraph at lines 5433--5444
 
  []
 
 [93] [94] [95] [96]
-Underfull \hbox (badness 10000) in paragraph at lines 5444--5445
+Missing character: There is no △ in font Crimson Roman/OT:script=latn;language=
+DFLT;mapping=tex-text;!
+Missing character: There is no △ in font Crimson Roman/OT:script=latn;language=
+DFLT;mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 5445--5448
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 5446--5447
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5448--5449
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5450--5451
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5452--5453
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5454--5455
-
- []
-
+Missing character: There is no △ in font Crimson Roman/OT:script=latn;language=
+DFLT;mapping=tex-text;!
+Missing character: There is no △ in font Crimson Roman/OT:script=latn;language=
+DFLT;mapping=tex-text;!
 [97]
-Missing character: There is no △ in font Crimson Roman/OT:script=latn;language=
-DFLT;mapping=tex-text;!
-Missing character: There is no △ in font Crimson Roman/OT:script=latn;language=
-DFLT;mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 5456--5457
+LaTeX Warning: Characters dropped after `\end{comment}' on input line 5450.
+
+
+LaTeX Warning: Characters dropped after `\end{comment}' on input line 5451.
+
+
+LaTeX Warning: Characters dropped after `\end{comment}' on input line 5457.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5449--5468
+
+ []
+
+[98] [99] [100] [101] [102] [103]
+Underfull \hbox (badness 10000) in paragraph at lines 5469--5476
+
+ []
+
+[104]
+Underfull \hbox (badness 10000) in paragraph at lines 5477--5478
 
  []
 
 
-LaTeX Warning: File `../../../gaiji/2-92/2-92-68.png' not found on input line 5
-459.
-
-! Unable to load picture or PDF file '../../../gaiji/2-92/2-92-68.png'.
-<to be read again> 
-                   }
-l.5459 ...raphics{../../../gaiji/2-92/2-92-68.png}
-                                                  （あん）もなめる�...
-
-? 
-File: ../../../gaiji/2-92/2-92-68.png Graphic file (type bmp)
-<../../../gaiji/2-92/2-92-68.png>
-
-LaTeX Warning: File `../../../gaiji/1-92/1-92-39.png' not found on input line 5
-462.
-
-! Unable to load picture or PDF file '../../../gaiji/1-92/1-92-39.png'.
-<to be read again> 
-                   }
-l.5462 ...raphics{../../../gaiji/1-92/1-92-39.png}
-                                                  躇（ちゅうちょ）�...
-
-? 
-File: ../../../gaiji/1-92/1-92-39.png Graphic file (type bmp)
-<../../../gaiji/1-92/1-92-39.png>
-
-LaTeX Warning: File `../../../gaiji/1-87/1-87-64.png' not found on input line 5
-468.
-
-! Unable to load picture or PDF file '../../../gaiji/1-87/1-87-64.png'.
-<to be read again> 
-                   }
-l.5468 ...raphics{../../../gaiji/1-87/1-87-64.png}
-                                                  （だいきえん）で�...
-
-? 
-File: ../../../gaiji/1-87/1-87-64.png Graphic file (type bmp)
-<../../../gaiji/1-87/1-87-64.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 5458--5471
-
- []
-
-[98] [99] [100] [101] [102] [103] [104] [105] [106]
-Underfull \hbox (badness 10000) in paragraph at lines 5472--5473
+Underfull \hbox (badness 10000) in paragraph at lines 5479--5480
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5474--5475
+Underfull \hbox (badness 10000) in paragraph at lines 5481--5488
+
+ []
+
+[105]
+Underfull \hbox (badness 10000) in paragraph at lines 5489--5490
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5476--5477
+Underfull \hbox (badness 10000) in paragraph at lines 5491--5492
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5478--5479
+LaTeX Warning: Characters dropped after `\end{comment}' on input line 5499.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5493--5517
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 5480--5481
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5482--5483
+[106] [107]
+Underfull \hbox (badness 10000) in paragraph at lines 5518--5587
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 5484--5485
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5486--5487
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5488--5489
-
- []
-
-[107]
-Underfull \hbox (badness 10000) in paragraph at lines 5490--5491
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5492--5493
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5494--5495
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5496--5497
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5498--5499
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5500--5501
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5502--5503
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5504--5505
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5506--5507
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5508--5509
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5510--5511
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5512--5513
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5514--5515
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5516--5517
-
- []
-
-[108]
-Underfull \hbox (badness 10000) in paragraph at lines 5518--5519
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5520--5521
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5522--5523
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5524--5525
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5526--5527
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5528--5529
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5530--5531
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5532--5533
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5534--5535
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5536--5537
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5538--5539
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5540--5541
-
- []
-
-[109]
-
-LaTeX Warning: File `../../../gaiji/2-92/2-92-71.png' not found on input line 5
-546.
-
-! Unable to load picture or PDF file '../../../gaiji/2-92/2-92-71.png'.
-<to be read again> 
-                   }
-l.5546 ...raphics{../../../gaiji/2-92/2-92-71.png}
-                                                  （ごぜん）をいた�...
-
-? 
-File: ../../../gaiji/2-92/2-92-71.png Graphic file (type bmp)
-<../../../gaiji/2-92/2-92-71.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 5542--5564
-
- []
-
-[110] [111]
-Underfull \hbox (badness 10000) in paragraph at lines 5565--5566
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5567--5636
-
- []
-
-[112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122
+[108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118
 
 ]
 
-LaTeX Warning: File `../../../gaiji/1-87/1-87-40.png' not found on input line 5
-638.
+LaTeX Warning: Characters dropped after `\end{comment}' on input line 5589.
 
-! Unable to load picture or PDF file '../../../gaiji/1-87/1-87-40.png'.
-<to be read again> 
-                   }
-l.5638 ...raphics{../../../gaiji/1-87/1-87-40.png}
-                                                  （こういっしゅ）�...
 
-? 
-File: ../../../gaiji/1-87/1-87-40.png Graphic file (type bmp)
-<../../../gaiji/1-87/1-87-40.png>
+LaTeX Warning: Characters dropped after `\end{comment}' on input line 5597.
 
-LaTeX Warning: File `../../../gaiji/1-87/1-87-40.png' not found on input line 5
-638.
-
-File: ../../../gaiji/1-87/1-87-40.png Graphic file (type bmp)
-<../../../gaiji/1-87/1-87-40.png>
-
-LaTeX Warning: File `../../../gaiji/1-87/1-87-40.png' not found on input line 5
-638.
-
-File: ../../../gaiji/1-87/1-87-40.png Graphic file (type bmp)
-<../../../gaiji/1-87/1-87-40.png>
-
-LaTeX Warning: File `../../../gaiji/1-87/1-87-40.png' not found on input line 5
-639.
-
-File: ../../../gaiji/1-87/1-87-40.png Graphic file (type bmp)
-<../../../gaiji/1-87/1-87-40.png>
-
-LaTeX Warning: File `../../../gaiji/1-06/1-06-84.png' not found on input line 5
-646.
-
-! Unable to load picture or PDF file '../../../gaiji/1-06/1-06-84.png'.
-<to be read again> 
-                   }
-l.5646 ...raphics{../../../gaiji/1-06/1-06-84.png}
-                                                  リーシャスの援（�...
-
-? 
-File: ../../../gaiji/1-06/1-06-84.png Graphic file (type bmp)
-<../../../gaiji/1-06/1-06-84.png>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 5647.
+(Font)              <7> on input line 5598.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 5647.
+(Font)              <5> on input line 5598.
 
-LaTeX Warning: File `../../../gaiji/1-06/1-06-84.png' not found on input line 5
-653.
+LaTeX Warning: Characters dropped after `\end{comment}' on input line 5604.
 
-File: ../../../gaiji/1-06/1-06-84.png Graphic file (type bmp)
-<../../../gaiji/1-06/1-06-84.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 5637--5674
+LaTeX Font Warning: Font shape `TU/Unifont(0)/m/it' undefined
+(Font)              using `TU/Unifont(0)/m/n' instead on input line 5611.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5588--5625
 
  []
 
-[123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133] [134]
-[135] [136] [137] [138] [139] [140] [141] [142] [143] [144] [145] (./vol-01.aux
-)
+[119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130]
+[131] [132] [133] [134] [135] (./vol-01.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 5590 ({)
+### bottom level
+(\end occurred when \ifmmode on line 5590 was incomplete) 
 Here is how much of TeX's memory you used:
- 18158 strings out of 493010
- 380538 string characters out of 6140133
- 1224923 words of memory out of 5000000
- 22050 multiletter control sequences out of 15000+600000
- 533438 words of font info for 45 fonts, out of 8000000 for 9000
+ 19095 strings out of 493010
+ 399174 string characters out of 6140133
+ 1032712 words of memory out of 5000000
+ 22984 multiletter control sequences out of 15000+600000
+ 533446 words of font info for 46 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  46i,5n,65p,10410b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on vol-01.pdf (145 pages).
+Output written on vol-01.pdf (135 pages).
