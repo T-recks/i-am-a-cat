@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.12.13)  17 DEC 2017 21:24
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.12.13)  17 DEC 2017 22:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1236,61 +1236,29 @@ LaTeX Font Warning: Font shape `TU/ipamp.ttf(0)/m/it' undefined
 
 [85] [86] [87] [88] [89] [90] [91] [92
 
-] [93] [94] [95] [96] [97] [98]
+] [93] [94] [95] [96] [97] [98] [99]
+[100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
+[112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122
 
-LaTeX Warning: Characters dropped after `\end{comment}' on input line 5506.
-
-
-LaTeX Warning: Characters dropped after `\end{comment}' on input line 5508.
-
-[99] [100] [101]
-
-LaTeX Warning: Characters dropped after `\end{comment}' on input line 5520.
-
-[102] [103] [104] [105] [106]
-
-LaTeX Warning: Characters dropped after `\end{comment}' on input line 5604.
-
-[107] [108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118]
-
-LaTeX Warning: Characters dropped after `\end{comment}' on input line 5780.
-
-
-LaTeX Warning: Characters dropped after `\end{comment}' on input line 5796.
-
+] [123]
+[124] [125] [126] [127] [128]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 5798.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5798.
-[119
-
-]
-
-LaTeX Warning: Characters dropped after `\end{comment}' on input line 5802.
-
-[120] [121] [122] [123]
-
-LaTeX Font Warning: Font shape `TU/Unifont(0)/m/it' undefined
-(Font)              using `TU/Unifont(0)/m/n' instead on input line 5816.
-
-[124] [125] [126] [127] [128] [129] [130] [131] [132] [133] [134] [135]
-(./vol-01.aux)
+ [129] [130] [131] [132] [133] [134] [135]
+[136] [137] [138] [139] [140] [141] [142] [143] [144] [145] (./vol-01.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
- )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 5782 ({)
-### bottom level
-(\end occurred when \ifmmode on line 5782 was incomplete) 
+ ) 
 Here is how much of TeX's memory you used:
- 19652 strings out of 493010
- 406847 string characters out of 6140133
- 589427 words of memory out of 5000000
- 23525 multiletter control sequences out of 15000+600000
- 533446 words of font info for 46 fonts, out of 8000000 for 9000
+ 19542 strings out of 493010
+ 399804 string characters out of 6140133
+ 588427 words of memory out of 5000000
+ 23416 multiletter control sequences out of 15000+600000
+ 533438 words of font info for 45 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  46i,5n,65p,10410b,254s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on vol-01.pdf (135 pages).
+Output written on vol-01.pdf (145 pages).
