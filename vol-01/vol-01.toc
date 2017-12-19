@@ -5,5 +5,5 @@
 \contentsline {chapter}{III}{85}
 \contentsline {part}{吾輩は猫である}{}
 \contentsline {chapter}{一}{147}
-\contentsline {chapter}{二}{163}
-\contentsline {chapter}{三}{215}
+\contentsline {chapter}{二}{161}
+\contentsline {chapter}{三}{207}
