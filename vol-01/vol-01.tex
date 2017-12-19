@@ -1,11 +1,15 @@
-\documentclass[draft, 12pt, openright]{book}
+\documentclass[12pt, openright]{book}
 \title{I am a Cat}
 \author{Natsume Sōseki}
+
+% Debug overfull hbox
+\overfullrule=1mm
+\hfuzz=1.51pt
 
 % Page Formatting and Margins
 \usepackage[
 	headheight=15.5pt,
-	inner=1.5in,
+	inner=1in,
 	outer=0.75in,
 	top=0.75in,
 	bottom=0.75in,
@@ -31,10 +35,13 @@
 \pagestyle{fancy}
 \fancyhead{}
 \fancyfoot{}
-
 % Remove line at top of page
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
+
+% Set pagestyle of parts to empty
+\usepackage{etoolbox}
+\patchcmd{\part}{plain}{empty}{}{}
 
 % Space between lines
 \linespread{1.1}
@@ -49,6 +56,9 @@
 \usepackage[japanese, english]{babel}
 \usepackage[thresholdtype=words]{csquotes}
 \SetBlockThreshold{1}
+
+% For access to cftaddtitleline
+\usepackage{tocloft}
 
 % Font Setup
 \usepackage[T1]{fontenc}
@@ -72,31 +82,43 @@
 \newunicodechar{△}{\textfallback{△}}
 
 
-
 \begin{document}
 ~
-%\frontmatter
+\frontmatter
+\vfill
+~
 \vfill
 {
 
 \centerline{\huge\bf I am a Cat}
-\centerline{\huge Natsume Sōseki}
-
+\centerline{\huge\bf 吾輩は猫である}
+\centerline{\noindent\rule{2cm}{0.4pt}}
 }
-
 \vfill
 {
 
-\centerline{\huge\bf 吾輩は猫である}
-\centerline{\huge 夏目 漱石}
+\centerline{Written by}
+\centerline{Natsume Sōseki}
+\centerline{夏目 漱石}
 
+}
+\vfill
+{
+\centerline{Translated by}
+\centerline{Yasotarō Mōri}
 }
 ~
 \vfill
 ~
 \newpage
-
-%\tableofcontents
+~
+\vfill
+The contents of this book are in the public domain and may be freely copied and distributed.
+\vfill
+~
+\newpage
+\tableofcontents
+\thispagestyle{empty}
 
 \mainmatter
 \fancyhead[RO,LE]{\thepage}
@@ -111,7 +133,11 @@
 	\fancyfoot[CO]{\thepage}
 	\fancyfoot[CE]{\thepage}
 }
-\chapter*{\centering I}
+\cftaddtitleline{toc}{part}{I am a Cat}{}
+\part*{I am a Cat}
+\chapter*{I}
+%\pagenumbering{arabic}
+\addcontentsline{toc}{chapter}{I}
 I am a cat. As yet I have no name. I've no idea where I was born. All I
 remember is that I was miaowing in a dampish dark place when, for the
 first time, I saw a human being. This human being, I heard afterwards,
@@ -704,7 +730,8 @@ more or less fit and, so far, without getting crippled. I catch no rats.
 I still detest that O-san. No one has yet named me but, since it's no
 use crying for the moon, I have resolved to remain for the rest of my
 life a nameless cat in the house of this teacher.
-\chapter*{\centering II}
+\chapter*{II}
+\addcontentsline{toc}{chapter}{II}
 SINCE New Year's Day I have acquired a certain modest celebrity: so
 that, though only a cat, I am feeling quietly proud of myself. Which is
 not unpleasing.
@@ -3123,7 +3150,8 @@ and carves my image on a temple gate; when some Japanese equivalent of
 the French master portraitist, Steinlein, immortalizes my features on a
 canvas, then at last will the silly purblind beings in shame regret
 their lack of insight.
-\chapter*{\centering III}
+\chapter*{III}
+\addcontentsline{toc}{chapter}{III}
 TORTOISESHELL is dead, one cannot consort with Rickshaw Blacky, and I
 feel a little lonely. Luckily I have made acquaintances among humankind
 so I do not suffer from any real sense of boredom. Someone wrote
@@ -5478,10 +5506,12 @@ in his hand. Apart from him, the street is empty. I cannot help but feel
 that he's been made to make a ninny of himself.
 \afterpage{\blankpage}
 \afterpage{\blankpage}
-%\hypertarget{ux4e00}{%
-%\paragraph{}%\label{ux4e00}}
-\chapter*{\centering 一}
-
+\cftaddtitleline{toc}{part}{吾輩は猫である}{}
+\part*{吾輩は猫である}
+\chapter*{一}
+%\addtocounter{page}{146}
+%\pagenumbering{arabic}
+\addcontentsline{toc}{chapter}{一}
 吾輩（わがはい）は猫である。名前はまだ無い。
 
 どこで生れたかとんと見当（けんとう）がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞くとそれは書生という人間中で一番獰悪（どうあく）な種族であったそうだ。この書生というのは時々我々を捕（つかま）えて煮（に）て食うという話である。しかしその当時は何という考もなかったから別段恐しいとも思わなかった。ただ彼の掌（てのひら）に載せられてスーと持ち上げられた時何だかフワフワした感じがあったばかりである。掌の上で少し落ちついて書生の顔を見たのがいわゆる人間というものの見始（みはじめ）であろう。この時妙なものだと思った感じが今でも残っている。第一毛をもって装飾されべきはずの顔がつるつるしてまるで薬缶（やかん）だ。その後（ご）猫にもだいぶ逢（あ）ったがこんな片輪（かたわ）には一度も出会（でく）わした事がない。のみならず顔の真中があまりに突起している。そうしてその穴の中から時々ぷうぷうと煙（けむり）を吹く。どうも咽（む）せぽくて実に弱った。これが人間の飲む煙草（たばこ）というものである事はようやくこの頃知った。
@@ -5548,8 +5578,8 @@ that he's been made to make a ninny of himself.
 
 吾輩は御馳走（ごちそう）も食わないから別段肥（ふと）りもしないが、まずまず健康で跛（びっこ）にもならずにその日その日を暮している。鼠は決して取らない。おさんは未（いま）だに嫌（きら）いである。名前はまだつけてくれないが、欲をいっても際限がないから生涯（しょうがい）この教師の家（うち）で無名の猫で終るつもりだ。
 
-\chapter*{\centering 二}
-
+\chapter*{二}
+\addcontentsline{toc}{chapter}{二}
 吾輩は新年来多少有名になったので、猫ながらちょっと鼻が高く感ぜらるるのはありがたい。
 
 元朝早々主人の許（もと）へ一枚の絵端書（えはがき）が来た。これは彼の交友某画家からの年始状であるが、上部を赤、下部を深緑（ふかみど）りで塗って、その真中に一の動物が蹲踞（うずくま）っているところをパステルで書いてある。主人は例の書斎でこの絵を、横から見たり、竪（たて）から眺めたりして、うまい色だなという。すでに一応感服したものだから、もうやめにするかと思うとやはり横から見たり、竪から見たりしている。からだを拗（ね）じ向けたり、手を延ばして年寄が三世相（さんぜそう）を見るようにしたり、または窓の方へむいて鼻の先まで持って来たりして見ている。早くやめてくれないと膝（ひざ）が揺れて険呑（けんのん）でたまらない。ようやくの事で動揺があまり劇（はげ）しくなくなったと思ったら、小さな声で一体何をかいたのだろうと云（い）う。主人は絵端書の色には感服したが、かいてある動物の正体が分らぬので、さっきから苦心をしたものと見える。そんな分らぬ絵端書かと思いながら、寝ていた眼を上品に半（なか）ば開いて、落ちつき払って見ると紛（まぎ）れもない、自分の肖像だ。主人のようにアンドレア・デル・サルトを極（き）め込んだものでもあるまいが、画家だけに形体も色彩もちゃんと整って出来ている。誰が見たって猫に相違ない。少し眼識のあるものなら、猫の中（うち）でも他（ほか）の猫じゃない吾輩である事が判然とわかるように立派に描（か）いてある。このくらい明瞭な事を分らずにかくまで苦心するかと思うと、少し人間が気の毒になる。出来る事ならその絵が吾輩であると云う事を知らしてやりたい。吾輩であると云う事はよし分らないにしても、せめて猫であるという事だけは分らしてやりたい。しかし人間というものは到底（とうてい）吾輩猫属（ねこぞく）の言語を解し得るくらいに天の恵（めぐみ）に浴しておらん動物であるから、残念ながらそのままにしておいた。
@@ -5854,8 +5884,8 @@ that he's been made to make a ninny of himself.
 
 鼠（ねずみ）はまだ取った事がないので、一時は御三（おさん）から放逐論（ほうちくろん）さえ呈出（ていしゅつ）された事もあったが、主人は吾輩の普通一般の猫でないと云う事を知っているものだから吾輩はやはりのらくらしてこの家（や）に起臥（きが）している。この点については深く主人の恩を感謝すると同時にその活眼（かつがん）に対して敬服の意を表するに躊躇（ちゅうちょ）しないつもりである。御三が吾輩を知らずして虐待をするのは別に腹も立たない。今に左甚五郎（ひだりじんごろう）が出て来て、吾輩の肖像を楼門（ろうもん）の柱に刻（きざ）み、日本のスタンランが好んで吾輩の似顔をカンヴァスの上に描（えが）くようになったら、彼等鈍瞎漢（どんかつかん）は始めて自己の不明を恥（は）ずるであろう。
 
-\chapter*{\centering 三}
-
+\chapter*{三}
+\addcontentsline{toc}{chapter}{三}
 三毛子は死ぬ。黒は相手にならず、いささか寂寞（せきばく）の感はあるが、幸い人間に知己（ちき）が出来たのでさほど退屈とも思わぬ。せんだっては主人の許（もと）へ吾輩の写真を送ってくれと手紙で依頼した男がある。この間は岡山の名産吉備団子（きびだんご）をわざわざ吾輩の名宛で届けてくれた人がある。だんだん人間から同情を寄せらるるに従って、己（おのれ）が猫である事はようやく忘却してくる。猫よりはいつの間（ま）にか人間の方へ接近して来たような心持になって、同族を糾合（きゅうごう）して二本足の先生と雌雄（しゆう）を決しようなどと云（い）う量見は昨今のところ毛頭（もうとう）ない。それのみか折々は吾輩もまた人間世界の一人だと思う折さえあるくらいに進化したのはたのもしい。あえて同族を軽蔑（けいべつ）する次第ではない。ただ性情の近きところに向って一身の安きを置くは勢（いきおい）のしからしむるところで、これを変心とか、軽薄とか、裏切りとか評せられてはちと迷惑する。かような言語を弄（ろう）して人を罵詈（ばり）するものに限って融通の利（き）かぬ貧乏性の男が多いようだ。こう猫の習癖を脱化して見ると\emph{三毛子}や\emph{黒}の事ばかり荷厄介にしている訳には行かん。やはり人間同等の気位（きぐらい）で彼等の思想、言行を評隲（ひょうしつ）したくなる。これも無理はあるまい。ただそのくらいな見識を有している吾輩をやはり一般猫児（びょうじ）の毛の生（は）えたものくらいに思って、主人が吾輩に一言（いちごん）の挨拶もなく、吉備団子（きびだんご）をわが物顔に喰い尽したのは残念の次第である。写真もまだ撮（と）って送らぬ容子（ようす）だ。これも不平と云えば不平だが、主人は主人、吾輩は吾輩で、相互の見解が自然異（こと）なるのは致し方もあるまい。吾輩はどこまでも人間になりすましているのだから、交際をせぬ猫の動作は、どうしてもちょいと筆に上（のぼ）りにくい。迷亭、寒月諸先生の評判だけで御免蒙（こうむ）る事に致そう。
 
 今日は上天気の日曜なので、主人はのそのそ書斎から出て来て、吾輩の傍（そば）へ筆硯（ふですずり）と原稿用紙を並べて腹這（はらばい）になって、しきりに何か唸（うな）っている。大方草稿を書き卸（おろ）す序開（じょびら）きとして妙な声を発するのだろうと注目していると、ややしばらくして筆太（ふでぶと）に「香一炷（こういっしゅ）」とかいた。はてな詩になるか、俳句になるか、香一炷とは、主人にしては少し洒落（しゃれ）過ぎているがと思う間もなく、彼は香一炷を書き放しにして、新たに行（ぎょう）を改めて「さっきから天然居士（てんねんこじ）の事をかこうと考えている」と筆を走らせた。筆はそれだけではたと留ったぎり動かない。主人は筆を持って首を捻（ひね）ったが別段名案もないものと見えて筆の穂を甞（な）めだした。唇が真黒になったと見ていると、今度はその下へちょいと丸をかいた。丸の中へ点を二つうって眼をつける。真中へ小鼻の開いた鼻をかいて、真一文字に口を横へ引張った、これでは文章でも俳句でもない。主人も自分で愛想（あいそ）が尽きたと見えて、そこそこに顔を塗り消してしまった。主人はまた行（ぎょう）を改める。彼の考によると行さえ改めれば詩か賛か語か録か何（なん）かになるだろうとただ宛（あて）もなく考えているらしい。やがて「天然居士は空間を研究し、論語を読み、焼芋（やきいも）を食い、鼻汁（はな）を垂らす人である」と言文一致体で一気呵成（いっきかせい）に書き流した、何となくごたごたした文章である。それから主人はこれを遠慮なく朗読して、いつになく「ハハハハ面白い」と笑ったが「鼻汁（はな）を垂らすのは、ちと酷（こく）だから消そう」とその句だけへ棒を引く。一本ですむところを二本引き三本引き、奇麗な併行線（へいこうせん）を描（か）く、線がほかの行（ぎょう）まで食（は）み出しても構わず引いている。線が八本並んでもあとの句が出来ないと見えて、今度は筆を捨てて髭（ひげ）を捻（ひね）って見る。文章を髭から捻り出して御覧に入れますと云う見幕（けんまく）で猛烈に捻ってはねじ上げ、ねじ下ろしているところへ、茶の間から妻君（さいくん）が出て来てぴたりと主人の鼻の先へ坐（す）わる。「あなたちょっと」と呼ぶ。「なんだ」と主人は水中で銅鑼（どら）を叩（たた）くような声を出す。返事が気に入らないと見えて妻君はまた「あなたちょっと」と出直す。「なんだよ」と今度は鼻の穴へ親指と人さし指を入れて鼻毛をぐっと抜く。「今月はちっと足りませんが\ldots{}\ldots{}」「足りんはずはない、医者へも薬礼はすましたし、本屋へも先月払ったじゃないか。今月は余らなければならん」とすまして抜き取った鼻毛を天下の奇観のごとく眺（なが）めている。「それでもあなたが御飯を召し上らんで麺麭（パン）を御食（おた）べになったり、ジャムを御舐（おな）めになるものですから」「元来ジャムは幾缶（いくかん）舐めたのかい」「今月は八つ入（い）りましたよ」「八つ？ そんなに舐めた覚えはない」「あなたばかりじゃありません、子供も舐めます」「いくら舐めたって五六円くらいなものだ」と主人は平気な顔で鼻毛を一本一本丁寧に原稿紙の上へ植付ける。肉が付いているのでぴんと針を立てたごとくに立つ。主人は思わぬ発見をして感じ入った体（てい）で、ふっと吹いて見る。粘着力（ねんちゃくりょく）が強いので決して飛ばない。「いやに頑固（がんこ）だな」と主人は一生懸命に吹く。「ジャムばかりじゃないんです、ほかに買わなけりゃ、ならない物もあります」と妻君は大（おおい）に不平な気色（けしき）を両頬に漲（みなぎ）らす。「あるかも知れないさ」と主人はまた指を突っ込んでぐいと鼻毛を抜く。赤いのや、黒いのや、種々の色が交（まじ）る中に一本真白なのがある。大に驚いた様子で穴の開（あ）くほど眺めていた主人は指の股へ挟んだまま、その鼻毛を妻君の顔の前へ出す。「あら、いやだ」と妻君は顔をしかめて、主人の手を突き戻す。「ちょっと見ろ、鼻毛の白髪（しらが）だ」と主人は大に感動した様子である。さすがの妻君も笑いながら茶の間へ這入（はい）る。経済問題は断念したらしい。主人はまた天然居士（てんねんこじ）に取り懸（かか）る。
