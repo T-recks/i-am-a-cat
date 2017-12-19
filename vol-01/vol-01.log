@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.12.13)  17 DEC 2017 23:07
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.12.13)  18 DEC 2017 17:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2017-04-15>
 Babel <3.15> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/share/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -24,35 +24,81 @@ File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texmf-dist/tex/latex/blindtext/blindtext.sty
-Package: blindtext 2012/01/06 V2.0 blindtext-Package
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/share/texmf-dist/tex/latex/tools/xspace.sty
-Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
 )
-\c@blindtext=\count88
-\c@Blindtext=\count89
-\c@blind@countparstart=\count90
-\blind@countxx=\count91
-\blindtext@numBlindtext=\count92
-\blind@countyy=\count93
-\c@blindlist=\count94
-\c@blindlistlevel=\count95
-\c@blindlist@level=\count96
-\blind@listitem=\count97
-\c@blind@listcount=\count98
-\c@blind@levelcount=\count99
-\blind@mathformula=\count100
-\blind@Mathformula=\count101
-\c@blind@randomcount=\count102
-\c@blind@randommax=\count103
-\c@blind@pangramcount=\count104
-\c@blind@pangrammax=\count105
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2017/07/07 v2.7 Micro-typographical refinements (RS)
+\MT@toks=\toks16
+\MT@count=\count91
+LaTeX Info: Redefining \textls on input line 789.
+\MT@outer@kern=\dimen111
+LaTeX Info: Redefining \textmicrotypecontext on input line 1334.
+\MT@listname@count=\count92
+
+(/usr/share/texmf-dist/tex/latex/microtype/microtype-xetex.def
+File: microtype-xetex.def 2017/07/07 v2.7 Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 255.
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2017/07/07 v2.7 microtype main configuration file (RS)
+))
+(/usr/share/texmf-dist/tex/latex/emptypage/emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
+pages
+)
+(/usr/share/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks17
+\AP@partial=\box26
+\AP@footins=\box27
+)
+(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
 )
 (/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks14
-\verbatim@line=\toks15
+\every@verbatim=\toks18
+\verbatim@line=\toks19
 \verbatim@in@stream=\read1
 )
 (/usr/share/texmf-dist/tex/generic/babel/babel.sty
@@ -70,35 +116,37 @@ File: babel.def 2017/11/03 3.15 Babel common definitions
 (/usr/share/texmf-dist/tex/generic/babel/switch.def
 File: switch.def 2017/11/03 3.15 Babel switching mechanism
 )
-\babel@savecnt=\count106
-\U@D=\dimen103
+\babel@savecnt=\count93
+\U@D=\dimen112
 
 (/usr/share/texmf-dist/tex/generic/babel/xebabel.def)
-\bbl@dirlevel=\count107
+\bbl@dirlevel=\count94
 )
 Package babel Info: No hyphenation patterns are available for Japanese,
 (babel)             so I will use the patterns preloaded for \language=0
 (babel)             instead on input line 44.
 \l@japanese = a dialect from \language0
+)
+(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
 ))
 (/usr/share/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2017/03/11 v5.2b context-sensitive quotations (JAW)
 
 (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count108
+\etb@tempcnta=\count95
 )
-(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
-)
-\csq@reset=\count109
-\csq@gtype=\count110
-\csq@glevel=\count111
-\csq@qlevel=\count112
-\csq@maxlvl=\count113
-\csq@tshold=\count114
-\csq@ltx@everypar=\toks17
+\csq@reset=\count96
+\csq@gtype=\count97
+\csq@glevel=\count98
+\csq@qlevel=\count99
+\csq@maxlvl=\count100
+\csq@tshold=\count101
+\csq@ltx@everypar=\toks20
 
 (/usr/share/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2017/03/11 v5.2b csquotes generic definitions (JAW)
@@ -128,171 +176,171 @@ Package: expl3 2017/11/14 L3 programming layer (loader)
 
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2017/11/14 L3 programming layer (code)
-\c_max_int=\count115
-\l_tmpa_int=\count116
-\l_tmpb_int=\count117
-\g_tmpa_int=\count118
-\g_tmpb_int=\count119
-\g__intarray_font_int=\count120
-\g__prg_map_int=\count121
-\c_log_iow=\count122
-\l_iow_line_count_int=\count123
-\l__iow_line_target_int=\count124
-\l__iow_one_indent_int=\count125
-\l__iow_indent_int=\count126
-\c_zero_dim=\dimen104
-\c_max_dim=\dimen105
-\l_tmpa_dim=\dimen106
-\l_tmpb_dim=\dimen107
-\g_tmpa_dim=\dimen108
-\g_tmpb_dim=\dimen109
-\c_zero_skip=\skip43
-\c_max_skip=\skip44
-\l_tmpa_skip=\skip45
-\l_tmpb_skip=\skip46
-\g_tmpa_skip=\skip47
-\g_tmpb_skip=\skip48
+\c_max_int=\count102
+\l_tmpa_int=\count103
+\l_tmpb_int=\count104
+\g_tmpa_int=\count105
+\g_tmpb_int=\count106
+\g__intarray_font_int=\count107
+\g__prg_map_int=\count108
+\c_log_iow=\count109
+\l_iow_line_count_int=\count110
+\l__iow_line_target_int=\count111
+\l__iow_one_indent_int=\count112
+\l__iow_indent_int=\count113
+\c_zero_dim=\dimen113
+\c_max_dim=\dimen114
+\l_tmpa_dim=\dimen115
+\l_tmpb_dim=\dimen116
+\g_tmpa_dim=\dimen117
+\g_tmpb_dim=\dimen118
+\c_zero_skip=\skip52
+\c_max_skip=\skip53
+\l_tmpa_skip=\skip54
+\l_tmpb_skip=\skip55
+\g_tmpa_skip=\skip56
+\g_tmpb_skip=\skip57
 \c_zero_muskip=\muskip10
 \c_max_muskip=\muskip11
 \l_tmpa_muskip=\muskip12
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count127
-\c__fp_leading_shift_int=\count128
-\c__fp_middle_shift_int=\count129
-\c__fp_trailing_shift_int=\count130
-\c__fp_big_leading_shift_int=\count131
-\c__fp_big_middle_shift_int=\count132
-\c__fp_big_trailing_shift_int=\count133
-\c__fp_Bigg_leading_shift_int=\count134
-\c__fp_Bigg_middle_shift_int=\count135
-\c__fp_Bigg_trailing_shift_int=\count136
-\l__sort_length_int=\count137
-\l__sort_min_int=\count138
-\l__sort_top_int=\count139
-\l__sort_max_int=\count140
-\l__sort_true_max_int=\count141
-\l__sort_block_int=\count142
-\l__sort_begin_int=\count143
-\l__sort_end_int=\count144
-\l__sort_A_int=\count145
-\l__sort_B_int=\count146
-\l__sort_C_int=\count147
-\l__tl_build_start_index_int=\count148
-\l__tl_build_index_int=\count149
-\l__tl_analysis_normal_int=\count150
-\l__tl_analysis_index_int=\count151
-\l__tl_analysis_nesting_int=\count152
-\l__tl_analysis_type_int=\count153
-\l__regex_internal_a_int=\count154
-\l__regex_internal_b_int=\count155
-\l__regex_internal_c_int=\count156
-\l__regex_balance_int=\count157
-\l__regex_group_level_int=\count158
-\l__regex_mode_int=\count159
-\c__regex_cs_in_class_mode_int=\count160
-\c__regex_cs_mode_int=\count161
-\l__regex_catcodes_int=\count162
-\l__regex_default_catcodes_int=\count163
-\c__regex_catcode_L_int=\count164
-\c__regex_catcode_O_int=\count165
-\c__regex_catcode_A_int=\count166
-\c__regex_all_catcodes_int=\count167
-\l__regex_show_lines_int=\count168
-\l__regex_min_state_int=\count169
-\l__regex_max_state_int=\count170
-\l__regex_left_state_int=\count171
-\l__regex_right_state_int=\count172
-\l__regex_capturing_group_int=\count173
-\l__regex_min_pos_int=\count174
-\l__regex_max_pos_int=\count175
-\l__regex_curr_pos_int=\count176
-\l__regex_start_pos_int=\count177
-\l__regex_success_pos_int=\count178
-\l__regex_curr_char_int=\count179
-\l__regex_curr_catcode_int=\count180
-\l__regex_last_char_int=\count181
-\l__regex_case_changed_char_int=\count182
-\l__regex_curr_state_int=\count183
-\l__regex_step_int=\count184
-\l__regex_min_active_int=\count185
-\l__regex_max_active_int=\count186
-\l__regex_replacement_csnames_int=\count187
-\l__regex_match_count_int=\count188
-\l__regex_min_submatch_int=\count189
-\l__regex_submatch_int=\count190
-\l__regex_zeroth_submatch_int=\count191
-\g__debug_trace_regex_int=\count192
-\c_empty_box=\box26
-\l_tmpa_box=\box27
-\l_tmpb_box=\box28
-\g_tmpa_box=\box29
-\g_tmpb_box=\box30
-\l__box_top_dim=\dimen110
-\l__box_bottom_dim=\dimen111
-\l__box_left_dim=\dimen112
-\l__box_right_dim=\dimen113
-\l__box_top_new_dim=\dimen114
-\l__box_bottom_new_dim=\dimen115
-\l__box_left_new_dim=\dimen116
-\l__box_right_new_dim=\dimen117
-\l__box_internal_box=\box31
-\l__coffin_internal_box=\box32
-\l__coffin_internal_dim=\dimen118
-\l__coffin_offset_x_dim=\dimen119
-\l__coffin_offset_y_dim=\dimen120
-\l__coffin_x_dim=\dimen121
-\l__coffin_y_dim=\dimen122
-\l__coffin_x_prime_dim=\dimen123
-\l__coffin_y_prime_dim=\dimen124
-\c_empty_coffin=\box33
-\l__coffin_aligned_coffin=\box34
-\l__coffin_aligned_internal_coffin=\box35
-\l_tmpa_coffin=\box36
-\l_tmpb_coffin=\box37
-\l__coffin_display_coffin=\box38
-\l__coffin_display_coord_coffin=\box39
-\l__coffin_display_pole_coffin=\box40
-\l__coffin_display_offset_dim=\dimen125
-\l__coffin_display_x_dim=\dimen126
-\l__coffin_display_y_dim=\dimen127
-\l__coffin_bounding_shift_dim=\dimen128
-\l__coffin_left_corner_dim=\dimen129
-\l__coffin_right_corner_dim=\dimen130
-\l__coffin_bottom_corner_dim=\dimen131
-\l__coffin_top_corner_dim=\dimen132
-\l__coffin_scaled_total_height_dim=\dimen133
-\l__coffin_scaled_width_dim=\dimen134
+\l_keys_choice_int=\count114
+\c__fp_leading_shift_int=\count115
+\c__fp_middle_shift_int=\count116
+\c__fp_trailing_shift_int=\count117
+\c__fp_big_leading_shift_int=\count118
+\c__fp_big_middle_shift_int=\count119
+\c__fp_big_trailing_shift_int=\count120
+\c__fp_Bigg_leading_shift_int=\count121
+\c__fp_Bigg_middle_shift_int=\count122
+\c__fp_Bigg_trailing_shift_int=\count123
+\l__sort_length_int=\count124
+\l__sort_min_int=\count125
+\l__sort_top_int=\count126
+\l__sort_max_int=\count127
+\l__sort_true_max_int=\count128
+\l__sort_block_int=\count129
+\l__sort_begin_int=\count130
+\l__sort_end_int=\count131
+\l__sort_A_int=\count132
+\l__sort_B_int=\count133
+\l__sort_C_int=\count134
+\l__tl_build_start_index_int=\count135
+\l__tl_build_index_int=\count136
+\l__tl_analysis_normal_int=\count137
+\l__tl_analysis_index_int=\count138
+\l__tl_analysis_nesting_int=\count139
+\l__tl_analysis_type_int=\count140
+\l__regex_internal_a_int=\count141
+\l__regex_internal_b_int=\count142
+\l__regex_internal_c_int=\count143
+\l__regex_balance_int=\count144
+\l__regex_group_level_int=\count145
+\l__regex_mode_int=\count146
+\c__regex_cs_in_class_mode_int=\count147
+\c__regex_cs_mode_int=\count148
+\l__regex_catcodes_int=\count149
+\l__regex_default_catcodes_int=\count150
+\c__regex_catcode_L_int=\count151
+\c__regex_catcode_O_int=\count152
+\c__regex_catcode_A_int=\count153
+\c__regex_all_catcodes_int=\count154
+\l__regex_show_lines_int=\count155
+\l__regex_min_state_int=\count156
+\l__regex_max_state_int=\count157
+\l__regex_left_state_int=\count158
+\l__regex_right_state_int=\count159
+\l__regex_capturing_group_int=\count160
+\l__regex_min_pos_int=\count161
+\l__regex_max_pos_int=\count162
+\l__regex_curr_pos_int=\count163
+\l__regex_start_pos_int=\count164
+\l__regex_success_pos_int=\count165
+\l__regex_curr_char_int=\count166
+\l__regex_curr_catcode_int=\count167
+\l__regex_last_char_int=\count168
+\l__regex_case_changed_char_int=\count169
+\l__regex_curr_state_int=\count170
+\l__regex_step_int=\count171
+\l__regex_min_active_int=\count172
+\l__regex_max_active_int=\count173
+\l__regex_replacement_csnames_int=\count174
+\l__regex_match_count_int=\count175
+\l__regex_min_submatch_int=\count176
+\l__regex_submatch_int=\count177
+\l__regex_zeroth_submatch_int=\count178
+\g__debug_trace_regex_int=\count179
+\c_empty_box=\box28
+\l_tmpa_box=\box29
+\l_tmpb_box=\box30
+\g_tmpa_box=\box31
+\g_tmpb_box=\box32
+\l__box_top_dim=\dimen119
+\l__box_bottom_dim=\dimen120
+\l__box_left_dim=\dimen121
+\l__box_right_dim=\dimen122
+\l__box_top_new_dim=\dimen123
+\l__box_bottom_new_dim=\dimen124
+\l__box_left_new_dim=\dimen125
+\l__box_right_new_dim=\dimen126
+\l__box_internal_box=\box33
+\l__coffin_internal_box=\box34
+\l__coffin_internal_dim=\dimen127
+\l__coffin_offset_x_dim=\dimen128
+\l__coffin_offset_y_dim=\dimen129
+\l__coffin_x_dim=\dimen130
+\l__coffin_y_dim=\dimen131
+\l__coffin_x_prime_dim=\dimen132
+\l__coffin_y_prime_dim=\dimen133
+\c_empty_coffin=\box35
+\l__coffin_aligned_coffin=\box36
+\l__coffin_aligned_internal_coffin=\box37
+\l_tmpa_coffin=\box38
+\l_tmpb_coffin=\box39
+\l__coffin_display_coffin=\box40
+\l__coffin_display_coord_coffin=\box41
+\l__coffin_display_pole_coffin=\box42
+\l__coffin_display_offset_dim=\dimen134
+\l__coffin_display_x_dim=\dimen135
+\l__coffin_display_y_dim=\dimen136
+\l__coffin_bounding_shift_dim=\dimen137
+\l__coffin_left_corner_dim=\dimen138
+\l__coffin_right_corner_dim=\dimen139
+\l__coffin_bottom_corner_dim=\dimen140
+\l__coffin_top_corner_dim=\dimen141
+\l__coffin_scaled_total_height_dim=\dimen142
+\l__coffin_scaled_width_dim=\dimen143
 )
 (/usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
 File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
-\g__driver_image_int=\count193
-\l__driver_tmp_box=\box41
+\g__driver_image_int=\count180
+\l__driver_tmp_box=\box43
 ))
 Package: xparse 2017/11/14 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count194
-\g__xparse_grabber_int=\count195
-\l__xparse_m_args_int=\count196
-\l__xparse_mandatory_args_int=\count197
-\l__xparse_v_nesting_int=\count198
+\l__xparse_current_arg_int=\count181
+\g__xparse_grabber_int=\count182
+\l__xparse_m_args_int=\count183
+\l__xparse_mandatory_args_int=\count184
+\l__xparse_v_nesting_int=\count185
 )
 Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
 
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count199
-\l__fontspec_language_int=\count266
-\l__fontspec_strnum_int=\count267
-\l__fontspec_tmp_int=\count268
-\l__fontspec_em_int=\count269
-\l__fontspec_emdef_int=\count270
-\l__fontspec_strong_int=\count271
-\l__fontspec_strongdef_int=\count272
-\l__fontspec_tmpa_dim=\dimen135
-\l__fontspec_tmpb_dim=\dimen136
-\l__fontspec_tmpc_dim=\dimen137
+\l__fontspec_script_int=\count186
+\l__fontspec_language_int=\count187
+\l__fontspec_strnum_int=\count188
+\l__fontspec_tmp_int=\count189
+\l__fontspec_em_int=\count190
+\l__fontspec_emdef_int=\count191
+\l__fontspec_strong_int=\count192
+\l__fontspec_strongdef_int=\count193
+\l__fontspec_tmpa_dim=\dimen144
+\l__fontspec_tmpb_dim=\dimen145
+\l__fontspec_tmpc_dim=\dimen146
 \g__file_internal_ior=\read2
 
 (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
@@ -495,7 +543,7 @@ LaTeX Info: Redefining \- on input line 4015.
 (/usr/share/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
 Package: newunicodechar 2012/11/12 v1.1 Defining Unicode characters
 )
-\g__fontspec_family_Crimson_int=\count273
+\g__fontspec_family_Crimson_int=\count194
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -519,33 +567,33 @@ Package: newunicodechar 2012/11/12 v1.1 Defining Unicode characters
 . <->"Crimson/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
-LaTeX Info: Redefining \rmfamily on input line 14.
+LaTeX Info: Redefining \rmfamily on input line 56.
 
 (/usr/share/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
 Package: xeCJK 2017/08/07 v3.5.0 Typesetting CJK scripts with XeLaTeX
 
 (/usr/share/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2017/11/14 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen138
-\l__xtemplate_tmp_int=\count274
+\l__xtemplate_tmp_dim=\dimen147
+\l__xtemplate_tmp_int=\count195
 \l__xtemplate_tmp_muskip=\muskip16
-\l__xtemplate_tmp_skip=\skip49
+\l__xtemplate_tmp_skip=\skip58
 )
 (/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2017/11/14 LaTeX2e option processing using LaTeX3 keys
 )
-\l__xeCJK_tmp_int=\count275
-\l__xeCJK_tmp_box=\box42
-\l__xeCJK_tmp_dim=\dimen139
-\l__xeCJK_tmp_skip=\skip50
+\l__xeCJK_tmp_int=\count196
+\l__xeCJK_tmp_box=\box44
+\l__xeCJK_tmp_dim=\dimen148
+\l__xeCJK_tmp_skip=\skip59
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \xeCJKShipoutHook with sig. '' on line 148.
 .................................................
-\g__xeCJK_spacefactor_int=\count276
-\l__xeCJK_begin_int=\count277
-\l__xeCJK_end_int=\count278
+\g__xeCJK_spacefactor_int=\count197
+\l__xeCJK_begin_int=\count198
+\l__xeCJK_end_int=\count199
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -591,22 +639,22 @@ Package: l3keys2e 2017/11/14 LaTeX2e option processing using LaTeX3 keys
 . 
 . Defining command \xeCJKResetCharClass with sig. '' on line 636.
 .................................................
-\l__xeCJK_last_skip=\skip51
-\g__xeCJK_node_int=\count279
-\c__xeCJK_CJK_node_dim=\dimen140
-\c__xeCJK_CJK-space_node_dim=\dimen141
-\c__xeCJK_default_node_dim=\dimen142
-\c__xeCJK_default-space_node_dim=\dimen143
-\c__xeCJK_CJK-widow_node_dim=\dimen144
-\c__xeCJK_normalspace_node_dim=\dimen145
-\l__xeCJK_ccglue_skip=\skip52
-\l__xeCJK_ecglue_skip=\skip53
+\l__xeCJK_last_skip=\skip60
+\g__xeCJK_node_int=\count266
+\c__xeCJK_CJK_node_dim=\dimen149
+\c__xeCJK_CJK-space_node_dim=\dimen150
+\c__xeCJK_default_node_dim=\dimen151
+\c__xeCJK_default-space_node_dim=\dimen152
+\c__xeCJK_CJK-widow_node_dim=\dimen153
+\c__xeCJK_normalspace_node_dim=\dimen154
+\l__xeCJK_ccglue_skip=\skip61
+\l__xeCJK_ecglue_skip=\skip62
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \xeCJKnobreak with sig. '' on line 1466.
 .................................................
-\l__xeCJK_widow_penalty_int=\count280
+\l__xeCJK_widow_penalty_int=\count267
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -638,25 +686,25 @@ Package: l3keys2e 2017/11/14 LaTeX2e option processing using LaTeX3 keys
 . 
 . Declaring object type 'xeCJK/punctuation' taking 0 argument(s) on line 1921.
 .................................................
-\l__xeCJK_fixed_punct_width_dim=\dimen146
-\l__xeCJK_mixed_punct_width_dim=\dimen147
-\l__xeCJK_middle_punct_width_dim=\dimen148
-\l__xeCJK_fixed_margin_width_dim=\dimen149
-\l__xeCJK_mixed_margin_width_dim=\dimen150
-\l__xeCJK_middle_margin_width_dim=\dimen151
-\l__xeCJK_bound_punct_width_dim=\dimen152
-\l__xeCJK_bound_margin_width_dim=\dimen153
-\l__xeCJK_margin_minimum_dim=\dimen154
-\l__xeCJK_kerning_total_width_dim=\dimen155
-\l__xeCJK_same_align_margin_dim=\dimen156
-\l__xeCJK_different_align_margin_dim=\dimen157
-\l__xeCJK_kerning_margin_width_dim=\dimen158
-\l__xeCJK_kerning_margin_minimum_dim=\dimen159
-\l__xeCJK_bound_dim=\dimen160
-\l__xeCJK_reverse_bound_dim=\dimen161
-\l__xeCJK_minimum_bound_dim=\dimen162
-\l__xeCJK_kerning_margin_dim=\dimen163
-\l__xeCJK_original_margin_dim=\dimen164
+\l__xeCJK_fixed_punct_width_dim=\dimen155
+\l__xeCJK_mixed_punct_width_dim=\dimen156
+\l__xeCJK_middle_punct_width_dim=\dimen157
+\l__xeCJK_fixed_margin_width_dim=\dimen158
+\l__xeCJK_mixed_margin_width_dim=\dimen159
+\l__xeCJK_middle_margin_width_dim=\dimen160
+\l__xeCJK_bound_punct_width_dim=\dimen161
+\l__xeCJK_bound_margin_width_dim=\dimen162
+\l__xeCJK_margin_minimum_dim=\dimen163
+\l__xeCJK_kerning_total_width_dim=\dimen164
+\l__xeCJK_same_align_margin_dim=\dimen165
+\l__xeCJK_different_align_margin_dim=\dimen166
+\l__xeCJK_kerning_margin_width_dim=\dimen167
+\l__xeCJK_kerning_margin_minimum_dim=\dimen168
+\l__xeCJK_bound_dim=\dimen169
+\l__xeCJK_reverse_bound_dim=\dimen170
+\l__xeCJK_minimum_bound_dim=\dimen171
+\l__xeCJK_kerning_margin_dim=\dimen172
+\l__xeCJK_original_margin_dim=\dimen173
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -674,7 +722,7 @@ Package: l3keys2e 2017/11/14 LaTeX2e option processing using LaTeX3 keys
 . 
 . Defining command \setCJKfallbackfamilyfont with sig. 'mom' on line 2524.
 .................................................
-\g__xeCJK_family_int=\count281
+\g__xeCJK_family_int=\count268
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -736,9 +784,9 @@ Package: l3keys2e 2017/11/14 LaTeX2e option processing using LaTeX3 keys
 . 
 . Defining command \setCJKmathfont with sig. 'om' on line 3274.
 .................................................
-\l__xeCJK_fam_int=\count282
-\g__xeCJK_fam_allocation_int=\count283
-\l__xeCJK_verb_case_int=\count284
+\l__xeCJK_fam_int=\count269
+\g__xeCJK_fam_allocation_int=\count270
+\l__xeCJK_verb_case_int=\count271
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -749,7 +797,7 @@ Package: l3keys2e 2017/11/14 LaTeX2e option processing using LaTeX3 keys
 . 
 . Defining command \xeCJKOffVerbAddon with sig. '' on line 3518.
 .................................................
-\l__xeCJK_verb_exspace_skip=\skip54
+\l__xeCJK_verb_exspace_skip=\skip63
 
 (/usr/share/texmf-dist/tex/xelatex/xecjk/xunicode-addon.sty
 Package: xunicode-addon 2017/08/07 v3.5.0 addon file for xunicode
@@ -760,13 +808,13 @@ other characters in Unicode lower plane
 
 (/usr/share/texmf-dist/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
-LaTeX Font Info:    Font shape `TU/Crimson(0)/m/sl' in size <10> not available
+LaTeX Font Info:    Font shape `TU/Crimson(0)/m/sl' in size <12> not available
 (Font)              Font shape `TU/Crimson(0)/m/it' tried instead on input line
  316.
 )
-\tipaTiiicode=\count285
-\tipasavetokens=\toks18
-\tipachecktokens=\toks19
+\tipaTiiicode=\count272
+\tipasavetokens=\toks21
+\tipachecktokens=\toks22
 
 (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
@@ -785,8 +833,8 @@ Package graphics Info: Driver file: xetex.def on input line 99.
 (/usr/share/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
-\Gin@req@height=\dimen165
-\Gin@req@width=\dimen166
+\Gin@req@height=\dimen174
+\Gin@req@width=\dimen175
 ))
 .................................................
 . LaTeX info: "xparse/redefine-command"
@@ -905,8 +953,8 @@ File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 . Defining command \DeclareUTFDoubleEncodedSymbol with sig. 'mO{\UTFencname
 . }mm' on line 310.
 .................................................
-\l__xunadd_tmp_coffin=\box43
-\l__xunadd_circle_coffin=\box44
+\l__xunadd_tmp_coffin=\box45
+\l__xunadd_circle_coffin=\box46
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1016,7 +1064,7 @@ File: xunicode-extra.def 2017/08/07 v3.5.0 extra definition for xunicode
 (/usr/share/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2017/08/07 v3.5.0 Configuration file for xeCJK package
 ))
-\g__fontspec_family_ipamp.ttf_int=\count286
+\g__fontspec_family_ipamp.ttf_int=\count273
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1034,7 +1082,7 @@ File: xeCJK.cfg 2017/08/07 v3.5.0 Configuration file for xeCJK package
 . 
 . Font "Unifont" does not contain any OpenType `Script' information.
 .................................................
-\g__fontspec_family_Unifont_int=\count287
+\g__fontspec_family_Unifont_int=\count274
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1063,35 +1111,82 @@ File: xeCJK.cfg 2017/08/07 v3.5.0 Configuration file for xeCJK package
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
-
-
-Package csquotes Warning: No style for language 'japanese'.
-(csquotes)                Using fallback style on input line 34.
-
-Package csquotes Info: Redefining alias 'default' -> 'fallback'.
-(./vol-01.aux)
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+ (./vol-01.aux)
 \openout1 = `vol-01.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 34.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 34.
- (/usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 76.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 76.
+
+(/usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    ... okay on input line 76.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(108.405pt, 271.0125pt, 54.2025pt)
+* v-part:(T,H,B)=(54.2025pt, 542.025pt, 54.2025pt)
+* \paperwidth=433.62pt
+* \paperheight=650.43pt
+* \textwidth=271.0125pt
+* \textheight=542.025pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-53.44128pt
+* \headheight=15.5pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=98.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \microtypecontext on input line 76.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Crimson' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Package microtype Warning: One or more slots in the configuration are unknown.
+(microtype)                Make sure that no text commands are used.
+(microtype)                See the documentation for details (the note
+(microtype)                on `xeCJK' in section 9: `Hints and caveats').
+
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -1099,166 +1194,1881 @@ LaTeX Font Info:    ... okay on input line 34.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 34.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 34.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 34.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 34.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 34.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 34.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 34.
-LaTeX Font Info:    Redeclaring math accent \check on input line 34.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 34.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 34.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 34.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 34.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 76.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 76.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 76.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 76.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 76.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 76.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 76.
+LaTeX Font Info:    Redeclaring math accent \check on input line 76.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 76.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 76.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 76.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 76.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 34.
+(Font)              `operators' in the math version `normal' on input line 76.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Crimson(0)/m/n on input line 34.
+(Font)                  OT1/cmr/m/n --> TU/Crimson(0)/m/n on input line 76.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 34.
+(Font)              `operators' in the math version `bold' on input line 76.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Crimson(0)/m/n on input line 34.
+(Font)                  OT1/cmr/bx/n --> TU/Crimson(0)/m/n on input line 76.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/Crimson(0)/m/n --> TU/Crimson(0)/m/n on input line 3
-4.
+(Font)                  TU/Crimson(0)/m/n --> TU/Crimson(0)/m/n on input line 7
+6.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Crimson(0)/m/it on input line 34.
+(Font)                  OT1/cmr/m/it --> TU/Crimson(0)/m/it on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Crimson(0)/bx/n on input line 34.
+(Font)                  OT1/cmr/bx/n --> TU/Crimson(0)/bx/n on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 34.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 34.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 76.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/Crimson(0)/m/n --> TU/Crimson(0)/bx/n on input line 
-34.
+76.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Crimson(0)/bx/it on input line 34.
+(Font)                  OT1/cmr/bx/it --> TU/Crimson(0)/bx/it on input line 76.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 34.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 34.
- [1
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 76.
 
+LaTeX Font Warning: Font shape `TU/ipamp.ttf(0)/bx/n' undefined
+(Font)              using `TU/ipamp.ttf(0)/m/n' instead on input line 90.
 
-] [2] [3]
-[4] [5] [6] [7] [8] [9] [10] [11
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ipamp.ttf' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+[1
 
-] [12] [13] [14] [15] [16] [17] [18] [19]
-Overfull \hbox (1.28381pt too wide) in paragraph at lines 1204--1244
-\TU/Crimson(0)/m/n/10 be fatal to be caught in this predicament, I redouble my 
-efforts and am positively running
+] [2
+
+] [1
+
+] [2] [3] [4]
+Overfull \hbox (9.07297pt too wide) in paragraph at lines 243--279
+\TU/Crimson(0)/m/n/12 est mischief, the entire household unites to chase me aro
+und|
  []
 
-[20] [21] [22]
-Overfull \hbox (1.9983pt too wide) in paragraph at lines 1408--1426
-\TU/Crimson(0)/m/n/10 back again on the dry chrysanthemums, yawning his spine i
-nto a high, black arch. Nowa-
+
+Overfull \hbox (6.201pt too wide) in paragraph at lines 243--279
+\TU/Crimson(0)/m/n/12 Relying on their naked strength, they coolly rob us of th
+ings|
  []
 
-[23] [24] [25] [26] [27] [28]
-Overfull \hbox (12.56361pt too wide) in paragraph at lines 1828--1832
-[]\TU/Crimson(0)/m/n/10 “Really? You, the boatman!” My master’s tone was such a
-s to suggest that, if Beauchamp
+
+Overfull \hbox (9.22098pt too wide) in paragraph at lines 243--279
+\TU/Crimson(0)/m/n/12 house of a military man, and the tomcat’s master is a law
+yer.|
  []
 
-[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43]
-Overfull \hbox (0.32957pt too wide) in paragraph at lines 2864--2885
-\TU/Crimson(0)/m/n/10 of his nature that I did not understand. But having heard
- his story, my uncertainties sud-
+[5]
+Overfull \hbox (2.62737pt too wide) in paragraph at lines 280--308
+[]\TU/Crimson(0)/m/n/12 Talking of selfishness reminds me that my master once|
  []
 
-[44] [45] [46] [47] [48
 
-] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58]
-[59] [60]
-Overfull \hbox (5.71783pt too wide) in paragraph at lines 3934--3936
-[]\TU/Crimson(0)/m/n/10 When the ceremonials of her self-introduction had been 
-completed, she glared around
+Overfull \hbox (4.9567pt too wide) in paragraph at lines 280--308
+\TU/Crimson(0)/m/n/12 texts; and sometimes he devotes himself to making hideous
+|
+ []
+
+
+Overfull \hbox (5.71162pt too wide) in paragraph at lines 280--308
+\TU/Crimson(0)/m/n/12 these activities has led to anything whatsoever. Yet, tho
+ugh|
+ []
+
+
+Overfull \hbox (1.449pt too wide) in paragraph at lines 280--308
+\TU/Crimson(0)/m/n/12 he is dyspeptic, he gets terribly keen once he has embark
+ed|
+ []
+
+[6]
+Overfull \hbox (1.03424pt too wide) in paragraph at lines 309--313
+[]\TU/Crimson(0)/m/n/12 “Do you know it’s quite difficult? When one sees some-|
+
+ []
+
+
+Overfull \hbox (2.21298pt too wide) in paragraph at lines 314--324
+[]\TU/Crimson(0)/m/n/12 His friend, looking at my master over his gold-rimmed|
+ []
+
+[7] [8] [9]
+Overfull \hbox (0.74738pt too wide) in paragraph at lines 384--413
+[]\TU/Crimson(0)/m/n/12 At the back of my house there is a small tea-plantation
+,|
+ []
+
+
+Overfull \hbox (4.73402pt too wide) in paragraph at lines 384--413
+\TU/Crimson(0)/m/n/12 perhaps some six yards square. Though certainly not large
+,|
+ []
+
+
+Overfull \hbox (7.49695pt too wide) in paragraph at lines 384--413
+\TU/Crimson(0)/m/n/12 there he was, stretched out at full length and snoring lo
+udly.|
+ []
+
+
+Overfull \hbox (11.6674pt too wide) in paragraph at lines 384--413
+\TU/Crimson(0)/m/n/12 ing light that shone from his eyes’ interior upon my dwar
+fish|
+ []
+
+[10]
+Overfull \hbox (1.50725pt too wide) in paragraph at lines 414--421
+\TU/Crimson(0)/m/n/12 get into trouble if I failed to exchange civilities, I an
+swered|
+ []
+
+
+Overfull \hbox (0.99478pt too wide) in paragraph at lines 428--430
+[]\TU/Crimson(0)/m/n/12 “Huh, I thought as much. ’Orrible scrawny aren’t you.”|
+
+ []
+
+
+Overfull \hbox (0.28134pt too wide) in paragraph at lines 436--446
+\TU/Crimson(0)/m/n/12 spirit and some pride: for Rickshaw Blacky is well-known|
+
+ []
+
+[11]
+Overfull \hbox (4.95456pt too wide) in paragraph at lines 450--452
+[]\TU/Crimson(0)/m/n/12 “You, being the cat of a rickshaw-owner, naturally look
+|
+ []
+
+[12]
+Overfull \hbox (0.24335pt too wide) in paragraph at lines 475--481
+\TU/Crimson(0)/m/n/12 physical strength and courage are nothing compared with|
+ []
+
+
+Overfull \hbox (26.06494pt too wide) in paragraph at lines 482--493
+[]\TU/Crimson(0)/m/n/12 Blacky laughed immoderately, quivering the long whisker
+s,|
+ []
+
+[13] [14] [15]
+Overfull \hbox (5.58356pt too wide) in paragraph at lines 587--587
+\TU/Crimson(0)/m/n/12 one of my watercolor paintings which I, think-|
+ []
+
+
+Overfull \hbox (5.97403pt too wide) in paragraph at lines 587--587
+\TU/Crimson(0)/m/n/12 viction that the picture is a masterpiece. Dawn|
+ []
+
+
+Overfull \hbox (0.4443pt too wide) in paragraph at lines 587--587
+\TU/Crimson(0)/m/n/12 broke and I woke up, and in the morning sun-|
+ []
+
+[16]
+Overfull \hbox (11.25537pt too wide) in paragraph at lines 599--608
+\TU/Crimson(0)/m/n/12 take it that sketching has developed in the West to its p
+resent|
+ []
+
+
+Overfull \hbox (7.14919pt too wide) in paragraph at lines 599--608
+\TU/Crimson(0)/m/n/12 sage in his diary, he speaks approvingly of Andrea del Sa
+rto. |
+ []
+
+[17]
+Overfull \hbox (2.88258pt too wide) in paragraph at lines 646--651
+[]\TU/Crimson(0)/m/n/12 Wide-eyed, my poor dyspeptic master asked him, “Fair|
+ []
+
+
+Overfull \hbox (3.60736pt too wide) in paragraph at lines 656--668
+\TU/Crimson(0)/m/n/12 his nature is uncommonly akin to that of Rickshaw Blacky.
+|
+ []
+
+[18]
+Overfull \hbox (18.45695pt too wide) in paragraph at lines 686--693
+\TU/Crimson(0)/m/n/12 terraces among the pine trees, have fallen like ancient d
+reams.|
+ []
+
+[19]
+Overfull \hbox (5.3745pt too wide) in paragraph at lines 701--707
+[]\TU/Crimson(0)/m/n/12 Since I do not receive any particularly nourishing food
+,|
+ []
+
+[20] [21
+
+]
+Overfull \hbox (0.50763pt too wide) in paragraph at lines 747--789
+\TU/Crimson(0)/m/n/12 pats and horse dung. Such thoughts, objectively regarded,
+|
+ []
+
+
+Overfull \hbox (0.85164pt too wide) in paragraph at lines 747--789
+\TU/Crimson(0)/m/n/12 freaks” is equally true in the world of cats. Our eyes, n
+oses,|
+ []
+
+
+Overfull \hbox (6.75966pt too wide) in paragraph at lines 747--789
+\TU/Crimson(0)/m/n/12 fur, paws—all of them differ. From the tilt of one’s whis
+kers|
+ []
+
+[22] [23]
+Overfull \hbox (0.93959pt too wide) in paragraph at lines 804--815
+[]\TU/Crimson(0)/m/n/12 At that moment the servant brought in yet a third post-
+|
+ []
+
+
+Overfull \hbox (8.22363pt too wide) in paragraph at lines 804--815
+\TU/Crimson(0)/m/n/12 ones, did seem to contain a new modicum of respect. Which
+|
+ []
+
+
+Overfull \hbox (3.50499pt too wide) in paragraph at lines 816--837
+\TU/Crimson(0)/m/n/12 ever, peered worriedly toward the entrance as if duns wer
+e|
+ []
+
+[24]
+Overfull \hbox (5.95804pt too wide) in paragraph at lines 844--849
+[]\TU/Crimson(0)/m/n/12 “Where then did shanks’ pony go?” my master enquired|
+ []
+
+
+Overfull \hbox (6.65695pt too wide) in paragraph at lines 850--852
+[]\TU/Crimson(0)/m/n/12 “As it were in various directions,” Coldmoon answered,|
+
+ []
+
+[25]
+Overfull \hbox (12.82784pt too wide) in paragraph at lines 853--854
+[]\TU/Crimson(0)/m/n/12 “What’s happened to your teeth?” asks my master, chang-
+|
+ []
+
+
+Overfull \hbox (2.64204pt too wide) in paragraph at lines 862--866
+\TU/Crimson(0)/m/n/12 nile. An image possibly appropriate to a haiku but scarce
+ly|
+ []
+
+
+Overfull \hbox (1.30655pt too wide) in paragraph at lines 871--874
+[]\TU/Crimson(0)/m/n/12 “He’s grown quite big lately,” responds my master, and|
+
+ []
+
+[26]
+Overfull \hbox (1.07025pt too wide) in paragraph at lines 917--935
+\TU/Crimson(0)/m/n/12 the inner side. My master wears the same clothes through-
+|
+ []
+
+[27]
+Overfull \hbox (11.54097pt too wide) in paragraph at lines 936--972
+\TU/Crimson(0)/m/n/12 suggests that, though egotistical egalitarianism may be m
+ore|
+ []
+
+[28]
+Overfull \hbox (0.15985pt too wide) in paragraph at lines 973--987
+\TU/Crimson(0)/m/n/12 boiled with vegetables, all served up in soup. He takes e
+nd-|
+ []
+
+[29]
+Overfull \hbox (19.12895pt too wide) in paragraph at lines 1004--1009
+\TU/Crimson(0)/m/n/12 day and stopping it the next, however efficacious the med
+icine|
+ []
+
+[30]
+Overfull \hbox (7.28275pt too wide) in paragraph at lines 1031--1036
+[]\TU/Crimson(0)/m/n/12 Took a stroll with Coldmoon round Nezu, Ueno, Ikeno-|
+ []
+
+
+Overfull \hbox (13.13933pt too wide) in paragraph at lines 1042--1052
+[]\TU/Crimson(0)/m/n/12 As we turned at Hotan’s corner another geisha appeared.
+|
+ []
+
+
+Overfull \hbox (4.08919pt too wide) in paragraph at lines 1042--1052
+\TU/Crimson(0)/m/n/12 ished in enchantment. So much so that I didn’t even bothe
+r|
+ []
+
+[31]
+Overfull \hbox (0.92604pt too wide) in paragraph at lines 1053--1072
+\TU/Crimson(0)/m/n/12 record as a means of maintaining our real characters. Had
+|
+ []
+
+[32]
+Overfull \hbox (0.16385pt too wide) in paragraph at lines 1085--1127
+\TU/Crimson(0)/m/n/12 eating pickles. According to him, all disorders of the st
+om-|
+ []
+
+
+Overfull \hbox (10.33612pt too wide) in paragraph at lines 1085--1127
+\TU/Crimson(0)/m/n/12 duced no noticeable effect, I have resumed consuming them
+.|
+ []
+
+
+Overfull \hbox (22.2194pt too wide) in paragraph at lines 1085--1127
+\TU/Crimson(0)/m/n/12 forth heavy plopping noises as though they had been swamp
+ed,|
+ []
+
+[33] [34]
+Overfull \hbox (4.01157pt too wide) in paragraph at lines 1148--1157
+\TU/Crimson(0)/m/n/12 morning he recorded in his diary an intention to take tre
+at-|
+ []
+
+
+Overfull \hbox (13.78412pt too wide) in paragraph at lines 1158--1170
+\TU/Crimson(0)/m/n/12 Rickshaw Blacky, I lack the energy to go off raiding fish
+shops|
+ []
+
+[35]
+Overfull \hbox (11.80894pt too wide) in paragraph at lines 1171--1203
+[]\TU/Crimson(0)/m/n/12 According to my master, there was once a novelist whose
+|
+ []
+
+
+Overfull \hbox (3.77802pt too wide) in paragraph at lines 1171--1203
+\TU/Crimson(0)/m/n/12 tagged along behind him. Having fruitlessly explored Pari
+s|
+ []
+
+[36]
+Overfull \hbox (7.16602pt too wide) in paragraph at lines 1204--1233
+\TU/Crimson(0)/m/n/12 at the green vegetables adhering to the rice-cake. My cla
+ws,|
+ []
+
+[37] [38]
+Overfull \hbox (10.13141pt too wide) in paragraph at lines 1260--1282
+\TU/Crimson(0)/m/n/12 on scratching until the fiend in the rice-cake has been d
+riven|
+ []
+
+
+Overfull \hbox (0.73297pt too wide) in paragraph at lines 1260--1282
+\TU/Crimson(0)/m/n/12 maintain an upright position, and the revelation of a thi
+rd|
+ []
+
+[39]
+Overfull \hbox (3.77211pt too wide) in paragraph at lines 1283--1323
+[]\TU/Crimson(0)/m/n/12 Sustained by Special Providence, I am fighting for dear
+|
+ []
+
+
+Overfull \hbox (3.08894pt too wide) in paragraph at lines 1283--1323
+\TU/Crimson(0)/m/n/12 doning her shuttlecock and battledore, she flew in throug
+h|
+ []
+
+
+Overfull \hbox (0.16898pt too wide) in paragraph at lines 1283--1323
+\TU/Crimson(0)/m/n/12 dren find me funniest, but by general agreement the whole
+|
+ []
+
+[40] [41] [42]
+Overfull \hbox (8.05724pt too wide) in paragraph at lines 1379--1385
+[]\TU/Crimson(0)/m/n/12 Tortoiseshell is a simple creature. “Yes,” she says, “t
+hat’s|
+ []
+
+[43]
+Overfull \hbox (1.43935pt too wide) in paragraph at lines 1422--1425
+\TU/Crimson(0)/m/n/12 owed wife’s private-secretary’s younger sister’s husband’
+s|
+ []
+
+
+Overfull \hbox (30.32333pt too wide) in paragraph at lines 1428--1430
+[]\TU/Crimson(0)/m/n/12 “The thirteenth Shogun’s widowed wife’s private-secreta
+ry’s|
+ []
+
+
+Overfull \hbox (16.84387pt too wide) in paragraph at lines 1431--1433
+[]\TU/Crimson(0)/m/n/12 “Ah! But, please, not quite so fast. The thirteenth Sho
+gun’s|
+ []
+
+
+Overfull \hbox (5.12225pt too wide) in paragraph at lines 1449--1450
+[]\TU/Crimson(0)/m/n/12 “Of course. How could I? Younger sister’s husband’s…” |
+
+ []
+
+[44]
+Overfull \hbox (1.1716pt too wide) in paragraph at lines 1473--1486
+\TU/Crimson(0)/m/n/12 ready.” Tortoiseshell looked happy and remarked, “There,|
+
+ []
+
+
+Overfull \hbox (2.5161pt too wide) in paragraph at lines 1487--1505
+\TU/Crimson(0)/m/n/12 I put my face through the broken bamboo hedge, and there|
+
+ []
+
+[45]
+Overfull \hbox (2.93715pt too wide) in paragraph at lines 1514--1517
+\TU/Crimson(0)/m/n/12 sounds distinctly derogatory, but its semantic content ha
+p-|
+ []
+
+
+Overfull \hbox (8.32834pt too wide) in paragraph at lines 1521--1537
+[]\TU/Crimson(0)/m/n/12 A New Year’s nit sounds somewhat poetic, but its mean-|
+
+ []
+
+[46]
+Overfull \hbox (1.10011pt too wide) in paragraph at lines 1538--1541
+\TU/Crimson(0)/m/n/12 changes, I offered Blacky my usual flattering exclamation
+.|
+ []
+
+
+Overfull \hbox (2.37984pt too wide) in paragraph at lines 1542--1547
+[]\TU/Crimson(0)/m/n/12 “Been at it! What the hell d’you mean, you saucy block-
+|
+ []
+
+[47]
+Overfull \hbox (7.97633pt too wide) in paragraph at lines 1567--1570
+[]\TU/Crimson(0)/m/n/12 “A miserable pound just simply will not do. But I recko
+n|
+ []
+
+
+Overfull \hbox (8.63pt too wide) in paragraph at lines 1574--1580
+\TU/Crimson(0)/m/n/12 disappeared. Presumably to possess himself of Westbrook’s
+|
+ []
+
+[48]
+Overfull \hbox (0.58736pt too wide) in paragraph at lines 1600--1603
+[]\TU/Crimson(0)/m/n/12 “Do you mean there was some ingenious idea involved|
+ []
+
+
+Overfull \hbox (8.85002pt too wide) in paragraph at lines 1600--1603
+\TU/Crimson(0)/m/n/12 in lunching at aWestern style restaurant?” My master pour
+s|
+ []
+
+
+Overfull \hbox (2.83537pt too wide) in paragraph at lines 1640--1646
+\TU/Crimson(0)/m/n/12 France or in England one can obtain any amount of dishes|
+
+ []
+
+[49] [50]
+Overfull \hbox (12.54549pt too wide) in paragraph at lines 1687--1691
+\TU/Crimson(0)/m/n/12 corrected him with gravity. ‘No, not meatballs, moat-bell
+s.’” |
+ []
+
+[51]
+Overfull \hbox (1.88895pt too wide) in paragraph at lines 1732--1733
+[]\TU/Crimson(0)/m/n/12 Waverhouse then turned to me and repeated, over and|
+ []
+
+
+Overfull \hbox (3.13297pt too wide) in paragraph at lines 1741--1751
+\TU/Crimson(0)/m/n/12 have the necessary ingredients, we’d be happy if you woul
+d|
+ []
+
+[52]
+Overfull \hbox (10.2801pt too wide) in paragraph at lines 1781--1785
+[]\TU/Crimson(0)/m/n/12 “Since a little while back, I and a few like-minded fri
+ends|
+ []
+
+[53]
+Overfull \hbox (3.10918pt too wide) in paragraph at lines 1793--1795
+[]\TU/Crimson(0)/m/n/12 “When you speak of ancient works, do you mean some-|
+ []
+
+
+Overfull \hbox (1.34358pt too wide) in paragraph at lines 1798--1799
+[]\TU/Crimson(0)/m/n/12 “Perhaps things like Buson’s mixture of haiku and Chi-|
+
+ []
+
+
+Overfull \hbox (3.61826pt too wide) in paragraph at lines 1808--1816
+[]\TU/Crimson(0)/m/n/12 There are not two Chikamatsus. When one says Chika-|
+ []
+
+[54]
+Overfull \hbox (16.54358pt too wide) in paragraph at lines 1857--1859
+\TU/Crimson(0)/m/n/12 not nakai signify something like a maid-servant in a brot
+hel?” |
+ []
+
+
+Overfull \hbox (7.302pt too wide) in paragraph at lines 1860--1866
+\TU/Crimson(0)/m/n/12 women’s quarters.” Although Beauchamp recently claimed|
+ []
+
+[55]
+Overfull \hbox (2.79077pt too wide) in paragraph at lines 1878--1881
+[]\TU/Crimson(0)/m/n/12 Thinking, in the light of these revelations, that the p
+lay-|
+ []
+
+
+Overfull \hbox (3.75877pt too wide) in paragraph at lines 1903--1904
+[]\TU/Crimson(0)/m/n/12 “By the way,” asks my master, “what part did you take?”
+ |
+ []
+
+[56]
+Overfull \hbox (9.63821pt too wide) in paragraph at lines 1912--1919
+[]\TU/Crimson(0)/m/n/12 Beauchamp does not seem particularly offended. Main-|
+ []
+
+
+Overfull \hbox (2.10919pt too wide) in paragraph at lines 1912--1919
+\TU/Crimson(0)/m/n/12 fact, it was because of this boatman that our precious ga
+th-|
+ []
+
+
+Overfull \hbox (1.59299pt too wide) in paragraph at lines 1920--1927
+\TU/Crimson(0)/m/n/12 the girl students, all of whom had managed to control the
+ir|
+ []
+
+[57]
+Overfull \hbox (7.65936pt too wide) in paragraph at lines 1945--1952
+\TU/Crimson(0)/m/n/12 Beauchamp very carefully produced a small notebook from|
+ []
+
+
+Overfull \hbox (5.33005pt too wide) in paragraph at lines 1960--1970
+\TU/Crimson(0)/m/n/12 hearted. His face assumes the expression of one who would
+|
+ []
+
+
+Overfull \hbox (1.41136pt too wide) in paragraph at lines 1960--1970
+\TU/Crimson(0)/m/n/12 among so many names of celebrated scholars is a supreme|
+ []
+
+
+Overfull \hbox (5.26338pt too wide) in paragraph at lines 1971--1978
+[]\TU/Crimson(0)/m/n/12 Beauchamp helps himself to a slice of sponge cake from|
+
+ []
+
+[58]
+Overfull \hbox (10.65936pt too wide) in paragraph at lines 2007--2012
+[]\TU/Crimson(0)/m/n/12 Tomorrow there will be a card party at a certain Baron’
+s|
+ []
+
+[59]
+Overfull \hbox (4.02412pt too wide) in paragraph at lines 2022--2026
+[]\TU/Crimson(0)/m/n/12 Next time that you are kind enough to visit me, I would
+|
+ []
+
+[60]
+Overfull \hbox (1.96756pt too wide) in paragraph at lines 2052--2056
+[]\TU/Crimson(0)/m/n/12 The dish of peacocks’ tongues was once extremely fash-|
+
+ []
+
+
+Overfull \hbox (16.53296pt too wide) in paragraph at lines 2060--2065
+\TU/Crimson(0)/m/n/12 ter invited Queen Elizabeth to Kenilworth, peacocks’ tong
+ues|
+ []
+
+
+Overfull \hbox (0.98894pt too wide) in paragraph at lines 2076--2081
+[]\TU/Crimson(0)/m/n/12 According to historians, the Romans held two or three|
+ []
+
+
+Overfull \hbox (2.21004pt too wide) in paragraph at lines 2076--2081
+\TU/Crimson(0)/m/n/12 banquets every day. But the consumption of so much good|
  []
 
 [61]
-Overfull \hbox (3.08736pt too wide) in paragraph at lines 3954--3957
-[]\TU/Crimson(0)/m/n/10 Madam Conk, dissatisfied with this development, bestirs
- herself again. “I live nearby.
+Overfull \hbox (9.09424pt too wide) in paragraph at lines 2084--2089
+\TU/Crimson(0)/m/n/12 working order. They accordingly devised a secret formula…
+ |
  []
 
-[62] [63]
-Overfull \hbox (0.10472pt too wide) in paragraph at lines 4119--4126
-\TU/Crimson(0)/m/n/10 burst into gales of laughter. Madam Conk, baulked in her 
-expectations and, ill-prepared
+
+Overfull \hbox (3.79138pt too wide) in paragraph at lines 2092--2102
+\TU/Crimson(0)/m/n/12 they proceeded to vomit up everything they had swallowed|
+
+ []
+
+
+Overfull \hbox (0.16095pt too wide) in paragraph at lines 2106--2114
+\TU/Crimson(0)/m/n/12 heavy traffic and the increased number of banquets, when|
+
+ []
+
+[62]
+Overfull \hbox (1.39537pt too wide) in paragraph at lines 2143--2150
+[]\TU/Crimson(0)/m/n/12 Several days then passed without any particular event.|
+
+ []
+
+[63]
+Overfull \hbox (10.35934pt too wide) in paragraph at lines 2151--2154
+[]\TU/Crimson(0)/m/n/12 Hiding myself behind the aspidistra beside a wash-basin
+,|
+ []
+
+
+Overfull \hbox (1.90625pt too wide) in paragraph at lines 2166--2167
+[]\TU/Crimson(0)/m/n/12 “That’s bad. If she doesn’t eat she will only get weake
+r.” |
+ []
+
+
+Overfull \hbox (2.56041pt too wide) in paragraph at lines 2168--2170
+[]\TU/Crimson(0)/m/n/12 “Yes indeed, madam. Even me, if I don’t eat for a whole
+|
+ []
+
+
+Overfull \hbox (8.21936pt too wide) in paragraph at lines 2177--2182
+\TU/Crimson(0)/m/n/12 into his consulting room carrying Tortoiseshell in my arm
+s,|
  []
 
 [64]
-Overfull \hbox (3.94673pt too wide) in paragraph at lines 4218--4221
-\TU/Crimson(0)/m/n/10 Coldmoon, eh?” Even Waverhouse seems to be getting annoye
-d for he uses some sharpish
+Overfull \hbox (13.87314pt too wide) in paragraph at lines 2202--2204
+\TU/Crimson(0)/m/n/12 Shogun’s somebody’s something, she’s quick with honorific
+s. |
  []
 
-[65] [66] [67]
-Overfull \hbox (0.1454pt too wide) in paragraph at lines 4411--4418
-[]\TU/Crimson(0)/m/n/10 Waverhouse thereupon addressed her in a loud voice thro
-ugh the sliding door. “That,
+
+Overfull \hbox (7.27612pt too wide) in paragraph at lines 2217--2219
+[]\TU/Crimson(0)/m/n/12 “I don’t see how she could have caught a cold, she hard
+ly|
  []
 
-[68] [69] [70] [71] [72] [73] [74] [75] [76]
-Overfull \hbox (4.03586pt too wide) in paragraph at lines 5059--5063
-\TU/Crimson(0)/m/n/10 known lecturer on the mechanics of hanging, that leading 
-bachelor of science, Mr. Avalon
+[65] [66]
+Overfull \hbox (2.36115pt too wide) in paragraph at lines 2276--2278
+\TU/Crimson(0)/m/n/12 I’d translate it,” answers my master somewhat reluctantly
+. |
  []
 
-[77] [78] [79] [80] [81] [82]
 
-LaTeX Font Warning: Font shape `TU/ipamp.ttf(0)/bx/n' undefined
-(Font)              using `TU/ipamp.ttf(0)/m/n' instead on input line 5402.
+Overfull \hbox (14.30676pt too wide) in paragraph at lines 2283--2286
+[]\TU/Crimson(0)/m/n/12 “I see, an anonymous author. Among anonymous works,|
+ []
 
-[83
 
-] [84]
+Overfull \hbox (8.81956pt too wide) in paragraph at lines 2294--2296
+\TU/Crimson(0)/m/n/12 last minute squaring of accounts for the peacocks’ tongue
+s?” |
+ []
+
+
+Overfull \hbox (2.91298pt too wide) in paragraph at lines 2297--2299
+[]\TU/Crimson(0)/m/n/12 “I’m not a braggart like you,” says my master and twist
+s|
+ []
+
+
+Overfull \hbox (1.33536pt too wide) in paragraph at lines 2300--2310
+[]\TU/Crimson(0)/m/n/12 “Once when someone asked Sanyo whether he’d lately|
+ []
+
+
+Overfull \hbox (3.7036pt too wide) in paragraph at lines 2300--2310
+\TU/Crimson(0)/m/n/12 the Chinese classics produced a dunning letter from a pac
+k-|
+ []
+
+
+Overfull \hbox (1.1061pt too wide) in paragraph at lines 2300--2310
+\TU/Crimson(0)/m/n/12 injunction left by the Most Reverend Priest Daitō. “‘Gian
+t|
+ []
+
+[67] [68]
+Overfull \hbox (0.63693pt too wide) in paragraph at lines 2367--2370
+[]\TU/Crimson(0)/m/n/12 “And compared with your watercolors, which showed|
+ []
+
+
+Overfull \hbox (9.13055pt too wide) in paragraph at lines 2384--2386
+[]\TU/Crimson(0)/m/n/12 “The other day,” he remarked, “a man called Beauchamp|
+ []
+
+
+Overfull \hbox (2.65959pt too wide) in paragraph at lines 2384--2386
+\TU/Crimson(0)/m/n/12 Blowlamp came to see me with an introduction from you.” |
+
+ []
+
+[69]
+Overfull \hbox (21.12337pt too wide) in paragraph at lines 2404--2405
+[]\TU/Crimson(0)/m/n/12 “He gets terribly upset if someone pronounces Beauchamp
+|
+ []
+
+
+Overfull \hbox (9.93536pt too wide) in paragraph at lines 2409--2411
+[]\TU/Crimson(0)/m/n/12 “Invariably he makes the immediate point that his name|
+
+ []
+
+
+Overfull \hbox (13.72916pt too wide) in paragraph at lines 2412--2414
+[]\TU/Crimson(0)/m/n/12 “That’s strange,” and Waverhouse inhales pricey tobacco
+-|
+ []
+
+
+Overfull \hbox (8.27802pt too wide) in paragraph at lines 2421--2426
+[]\TU/Crimson(0)/m/n/12 “He certainly is extraordinary.” Getting more and more|
+
+ []
+
+[70]
+Overfull \hbox (8.03137pt too wide) in paragraph at lines 2457--2463
+\TU/Crimson(0)/m/n/12 fact he does not understand Waverhouse’s involved method|
+
+ []
+
+
+Overfull \hbox (20.78339pt too wide) in paragraph at lines 2457--2463
+\TU/Crimson(0)/m/n/12 But not for nothing has he been so many years a schooltea
+cher.|
+ []
+
+
+Overfull \hbox (2.70222pt too wide) in paragraph at lines 2464--2465
+[]\TU/Crimson(0)/m/n/12 “What is a chopping board at Gyōtoku?” asks the guile-|
+
+ []
+
+
+Overfull \hbox (3.68336pt too wide) in paragraph at lines 2466--2469
+[]\TU/Crimson(0)/m/n/12 My master looks toward the alcove and pulverizes that|
+ []
+
+[71]
+Overfull \hbox (4.32872pt too wide) in paragraph at lines 2479--2496
+\TU/Crimson(0)/m/n/12 the weather’s cold; that unless the room is first well-he
+ated|
+ []
+
+[72]
+Overfull \hbox (1.71852pt too wide) in paragraph at lines 2529--2533
+[]\TU/Crimson(0)/m/n/12 But I was beginning to think that one could be tempted|
+
+ []
+
+[73]
+Overfull \hbox (5.94737pt too wide) in paragraph at lines 2538--2540
+[]\TU/Crimson(0)/m/n/12 “Isn’t the pine for hanging heads that one at Ko-nodai?
+”|
+ []
+
+[74]
+Overfull \hbox (2.76678pt too wide) in paragraph at lines 2576--2584
+\TU/Crimson(0)/m/n/12 could hang myself with an easy mind. Accordingly, I hurry
+|
+ []
+
+[75]
+Overfull \hbox (1.7663pt too wide) in paragraph at lines 2602--2605
+\TU/Crimson(0)/m/n/12 zier and casts down his eyes, grinning; eventually he ope
+ns|
+ []
+
+[76]
+Overfull \hbox (4.17538pt too wide) in paragraph at lines 2634--2636
+[]\TU/Crimson(0)/m/n/12 Not only my master but even Waverhouse refrain from|
+ []
+
+
+Overfull \hbox (12.34895pt too wide) in paragraph at lines 2637--2647
+\TU/Crimson(0)/m/n/12 were having a nightmare, and all the surrounding air seem
+ed|
+ []
+
+
+Overfull \hbox (2.24277pt too wide) in paragraph at lines 2648--2652
+[]\TU/Crimson(0)/m/n/12 “Just a minute, please. You’ve mentioned Miss O about|
+ []
+
+
+Overfull \hbox (17.85637pt too wide) in paragraph at lines 2656--2658
+\TU/Crimson(0)/m/n/12 such vague, ambiguous, equivocal, and noncommittal terms?
+” |
+ []
+
+
+Overfull \hbox (26.5132pt too wide) in paragraph at lines 2659--2670
+\TU/Crimson(0)/m/n/12 moving. A rickshaw coming from the direction of Hanakawad
+o|
+ []
+
+[77]
+Overfull \hbox (4.47803pt too wide) in paragraph at lines 2671--2679
+\TU/Crimson(0)/m/n/12 calling my name. It is most improbable that anyone should
+|
+ []
+
+
+Overfull \hbox (2.79906pt too wide) in paragraph at lines 2680--2698
+\TU/Crimson(0)/m/n/12 straight in; and, as I stood watching the stream, once ag
+ain|
+ []
+
+
+Overfull \hbox (2.77773pt too wide) in paragraph at lines 2680--2698
+\TU/Crimson(0)/m/n/12 me. This, I thought, is it; jumping high with all my stre
+ngth,|
+ []
+
+[78]
+Overfull \hbox (4.52335pt too wide) in paragraph at lines 2723--2726
+\TU/Crimson(0)/m/n/12 just inside the gate playing battledore and shuttlecock w
+ith|
+ []
+
+[79]
+Overfull \hbox (9.00894pt too wide) in paragraph at lines 2727--2730
+[]\TU/Crimson(0)/m/n/12 My master, who for some time has been deep in thought,|
+
+ []
+
+[80] [81] [82]
+Overfull \hbox (0.55937pt too wide) in paragraph at lines 2824--2876
+\TU/Crimson(0)/m/n/12 woman you must be aware of that Western proverb which|
+ []
+
+
+Overfull \hbox (1.77293pt too wide) in paragraph at lines 2824--2876
+\TU/Crimson(0)/m/n/12 prepare her for extremities, were naturally damped down.|
+
+ []
+
+[83] [84]
+Overfull \hbox (6.69295pt too wide) in paragraph at lines 2893--2908
+\TU/Crimson(0)/m/n/12 dance with my wife’s imperative instructions, the wretche
+d|
+ []
+
+[85]
+Overfull \hbox (5.83725pt too wide) in paragraph at lines 2935--2937
+[]\TU/Crimson(0)/m/n/12 “How very vexing,” says Coldmoon. His laugh, as usual,|
+
+ []
+
+
+Overfull \hbox (2.64517pt too wide) in paragraph at lines 2938--2942
+\TU/Crimson(0)/m/n/12 paper-door, we heard the master’s wife make an harumph-|
+ []
+
+
+Overfull \hbox (11.02335pt too wide) in paragraph at lines 2943--2964
+\TU/Crimson(0)/m/n/12 uous employment of their mouths for the purpose of whilin
+g|
+ []
+
+[86]
+Overfull \hbox (7.17294pt too wide) in paragraph at lines 2965--2972
+\TU/Crimson(0)/m/n/12 vealed flickeringly in their everyday conversation, and o
+nly|
+ []
+
+
+Overfull \hbox (1.07936pt too wide) in paragraph at lines 2965--2972
+\TU/Crimson(0)/m/n/12 a hair’s breadth separates them from the Philistines whom
+|
+ []
+
+[87]
+Overfull \hbox (1.68498pt too wide) in paragraph at lines 3003--3008
+\TU/Crimson(0)/m/n/12 look better if written in the cursive style, so they had 
+added|
+ []
+
+[88]
+Overfull \hbox (3.1828pt too wide) in paragraph at lines 3012--3016
+\TU/Crimson(0)/m/n/12 something must be wrong, I stand up on the cushion. Ting!
+|
+ []
+
+[89]
+Overfull \hbox (12.25476pt too wide) in paragraph at lines 3060--3062
+\TU/Crimson(0)/m/n/12 Then, Madam, how perfectly everything would have gone…” |
+
+ []
+
+[90]
+Overfull \hbox (9.89319pt too wide) in paragraph at lines 3097--3103
+\TU/Crimson(0)/m/n/12 Then, simultaneously erecting every single one of my eigh
+ty-|
+ []
+
+
+Overfull \hbox (3.04517pt too wide) in paragraph at lines 3114--3126
+\TU/Crimson(0)/m/n/12 Japanese equivalent of the French master portraitist, Ste
+in-|
+ []
+
+[91] [92]
+Overfull \hbox (0.23631pt too wide) in paragraph at lines 3127--3163
+\TU/Crimson(0)/m/n/12 TORTOISESHELL is dead, one cannot consort with Rick-|
+ []
+
+
+Overfull \hbox (17.58894pt too wide) in paragraph at lines 3127--3163
+\TU/Crimson(0)/m/n/12 presented some millet dumplings, that speciality of Okaya
+ma,|
+ []
+
+[93
+
+]
+Overfull \hbox (1.04417pt too wide) in paragraph at lines 3164--3185
+\TU/Crimson(0)/m/n/12 just written, he drew a circle, put in two dots as eyes, 
+added|
+ []
+
+[94]
+Overfull \hbox (5.48497pt too wide) in paragraph at lines 3186--3194
+\TU/Crimson(0)/m/n/12 Natural Man is one who studies Infinity, reads the Analec
+ts|
+ []
+
+
+Overfull \hbox (0.27402pt too wide) in paragraph at lines 3186--3194
+\TU/Crimson(0)/m/n/12 somewhat muddled phrase. He thereupon read the phrase|
+ []
+
+
+Overfull \hbox (2.91403pt too wide) in paragraph at lines 3195--3204
+\TU/Crimson(0)/m/n/12 from his whiskers. He is still twisting them up and twirl
+ing|
+ []
+
+[95]
+Overfull \hbox (1.69536pt too wide) in paragraph at lines 3234--3240
+\TU/Crimson(0)/m/n/12 rooted bristles stand upright on the paper like a little 
+copse|
+ []
+
+
+Overfull \hbox (2.73004pt too wide) in paragraph at lines 3234--3240
+\TU/Crimson(0)/m/n/12 of needles. My master seems impressed by this unexpected|
+
+ []
+
+[96]
+Overfull \hbox (11.44336pt too wide) in paragraph at lines 3261--3265
+[]\TU/Crimson(0)/m/n/12 Having succeeded in driving off his wife with his scour
+ge|
+ []
+
+
+Overfull \hbox (19.48201pt too wide) in paragraph at lines 3266--3286
+\TU/Crimson(0)/m/n/12 cius.” My master thinks this statement a trifle over-simp
+lified.|
+ []
+
+
+Overfull \hbox (4.53827pt too wide) in paragraph at lines 3266--3286
+\TU/Crimson(0)/m/n/12 houses; unannounced and unceremoniously, he enters any|
+ []
+
+[97]
+Overfull \hbox (4.89073pt too wide) in paragraph at lines 3289--3293
+[]\TU/Crimson(0)/m/n/12 “How could I be always writing only about ‘Giant Grav-|
+
+ []
+
+
+Overfull \hbox (1.36594pt too wide) in paragraph at lines 3299--3301
+[]\TU/Crimson(0)/m/n/12 “No, of course there isn’t, but I take it that you’re w
+ork-|
+ []
+
+
+Overfull \hbox (0.40736pt too wide) in paragraph at lines 3302--3305
+\TU/Crimson(0)/m/n/12 Mr. the-late-and-sainted Natural Man is a person of your|
+
+ []
+
+
+Overfull \hbox (3.91478pt too wide) in paragraph at lines 3321--3326
+[]\TU/Crimson(0)/m/n/12 “Anyway, let’s see the epitaph,” says Waverhouse laugh-
+|
+ []
+
+
+Overfull \hbox (1.16602pt too wide) in paragraph at lines 3321--3326
+\TU/Crimson(0)/m/n/12 died into infinity. Mr. the-late-and-sainted Natural Man.
+|
+ []
+
+[98]
+Overfull \hbox (3.79187pt too wide) in paragraph at lines 3327--3328
+[]\TU/Crimson(0)/m/n/12 “Good, isn’t it?” says my master obviously very pleased
+. |
+ []
+
+
+Overfull \hbox (13.05136pt too wide) in paragraph at lines 3329--3333
+\TU/Crimson(0)/m/n/12 hall of some temple for the practice-benefit of passing w
+eight|
+ []
+
+
+Overfull \hbox (9.58737pt too wide) in paragraph at lines 3329--3333
+\TU/Crimson(0)/m/n/12 lifters. It’s good. It’s most artistic. Mr. the-late-and-
+sainted|
+ []
+
+
+Overfull \hbox (17.37955pt too wide) in paragraph at lines 3339--3344
+[]\TU/Crimson(0)/m/n/12 Being thus unexpectedly required to entertain the cultu
+re-|
+ []
+
+[99]
+Overfull \hbox (8.24623pt too wide) in paragraph at lines 3380--3384
+[]\TU/Crimson(0)/m/n/12 “It’s impossible to say whether it’s better or worse. H
+ow-|
+ []
+
+[100]
+Overfull \hbox (2.39856pt too wide) in paragraph at lines 3403--3408
+\TU/Crimson(0)/m/n/12 ‘Come here, my little babykin, father’ll give you somethi
+ng|
+ []
+
+
+Overfull \hbox (9.55298pt too wide) in paragraph at lines 3403--3408
+\TU/Crimson(0)/m/n/12 tion for the children, he always does remarkably silly th
+ings.|
+ []
+
+
+Overfull \hbox (3.31401pt too wide) in paragraph at lines 3409--3411
+[]\TU/Crimson(0)/m/n/12 “What ingenious scheme was that?” Waverhouse looks|
+ []
+
+
+Overfull \hbox (0.15163pt too wide) in paragraph at lines 3433--3441
+\TU/Crimson(0)/m/n/12 complete detachment. At the end of last year, for instanc
+e,|
+ []
+
+[101]
+Overfull \hbox (1.43803pt too wide) in paragraph at lines 3451--3456
+[]\TU/Crimson(0)/m/n/12 “And do you really believe he would listen to me? Why,|
+
+ []
+
+
+Overfull \hbox (6.45338pt too wide) in paragraph at lines 3451--3456
+\TU/Crimson(0)/m/n/12 wife: you lack the least understanding of the value of bo
+oks.|
+ []
+
+[102] [103]
+Overfull \hbox (2.09538pt too wide) in paragraph at lines 3538--3540
+[]\TU/Crimson(0)/m/n/12 The lady of the house looks puzzled and asks anxiously|
+
+ []
+
+[104]
+Overfull \hbox (8.83937pt too wide) in paragraph at lines 3571--3574
+\TU/Crimson(0)/m/n/12 but would you please tell what makes a thing conventional
+?”|
+ []
+
+
+Overfull \hbox (5.54762pt too wide) in paragraph at lines 3585--3588
+\TU/Crimson(0)/m/n/12 tional.” Though totally uncalculated, her words land smac
+k|
+ []
+
+[105]
+Overfull \hbox (1.12894pt too wide) in paragraph at lines 3589--3594
+\TU/Crimson(0)/m/n/12 whenever the weather’s fine, would do no more than stroll
+|
+ []
+
+[106] [107]
+Overfull \hbox (7.15392pt too wide) in paragraph at lines 3664--3666
+\TU/Crimson(0)/m/n/12 self, I can understand your interest in the subject, but 
+I’m…” |
+ []
+
+
+Overfull \hbox (9.19937pt too wide) in paragraph at lines 3667--3673
+\TU/Crimson(0)/m/n/12 interjects one of his usual flippant remarks and Mrs. Sne
+aze|
+ []
+
+[108]
+Overfull \hbox (3.86336pt too wide) in paragraph at lines 3697--3708
+[]\TU/Crimson(0)/m/n/12 “Hanging as a death penalty appears to have originated|
+
+ []
+
+
+Overfull \hbox (6.69823pt too wide) in paragraph at lines 3697--3708
+\TU/Crimson(0)/m/n/12 cross and leave it exposed during the night. The Persians
+…” |
+ []
+
+[109]
+Overfull \hbox (9.37297pt too wide) in paragraph at lines 3735--3737
+[]\TU/Crimson(0)/m/n/12 “If to ‘recite my piece’ sounds vulgar, what words shou
+ld|
+ []
+
+
+Overfull \hbox (0.63936pt too wide) in paragraph at lines 3738--3742
+\TU/Crimson(0)/m/n/12 master seeks to find a way through the difficulty as quic
+kly|
+ []
+
+
+Overfull \hbox (1.2819pt too wide) in paragraph at lines 3743--3747
+[]\TU/Crimson(0)/m/n/12 “So, having made your indignant recitation, now I sup-|
+
+ []
+
+
+Overfull \hbox (1.00519pt too wide) in paragraph at lines 3748--3755
+\TU/Crimson(0)/m/n/12 by hanging of Penelope’s twelve ladies-in-waiting. I coul
+d|
+ []
+
+
+Overfull \hbox (5.13403pt too wide) in paragraph at lines 3759--3763
+\TU/Crimson(0)/m/n/12 tation.” Quite unusually my master immediately sides with
+|
+ []
+
+[110]
+Overfull \hbox (8.07936pt too wide) in paragraph at lines 3784--3787
+[]\TU/Crimson(0)/m/n/12 “They would then look something like those ball-shaped|
+
+ []
+
+[111]
+Overfull \hbox (3.43533pt too wide) in paragraph at lines 3806--3810
+[]\TU/Crimson(0)/m/n/12 My master and Waverhouse exchange glances and say,|
+ []
+
+
+Overfull \hbox (5.12256pt too wide) in paragraph at lines 3836--3837
+[]\TU/Crimson(0)/m/n/12 “That’s good,” says Waverhouse, unexpectedly clapping|
+ []
+
+[112]
+Overfull \hbox (2.58337pt too wide) in paragraph at lines 3838--3852
+\TU/Crimson(0)/m/n/12 tempt the rope proved so long that his legs touched groun
+d|
+ []
+
+[113]
+Overfull \hbox (3.09135pt too wide) in paragraph at lines 3875--3883
+\TU/Crimson(0)/m/n/12 Waverhouse made so many and such capriciously-phrased|
+ []
+
+
+Overfull \hbox (7.75694pt too wide) in paragraph at lines 3875--3883
+\TU/Crimson(0)/m/n/12 employed that evening, because the lecture took place mil
+es|
+ []
+
+
+Overfull \hbox (5.56279pt too wide) in paragraph at lines 3884--3891
+[]\TU/Crimson(0)/m/n/12 A few days passed uneventfully by. Then, one day about|
+
+ []
+
+[114]
+Overfull \hbox (11.84497pt too wide) in paragraph at lines 3940--3947
+\TU/Crimson(0)/m/n/12 which had belonged to Otaka Gengo and, saying they wished
+|
+ []
+
+[115]
+Overfull \hbox (11.18192pt too wide) in paragraph at lines 3958--3960
+[]\TU/Crimson(0)/m/n/12 “That I can well imagine,” sympathizes my master, think
+-|
+ []
+
+
+Overfull \hbox (3.15556pt too wide) in paragraph at lines 3961--3965
+[]\TU/Crimson(0)/m/n/12 “Idle onlookers soon began to gather around and even-|
+ []
+
+
+Overfull \hbox (13.71936pt too wide) in paragraph at lines 3961--3965
+\TU/Crimson(0)/m/n/12 tually Beauchamp and the Germans were totally surrounded|
+
+ []
+
+
+Overfull \hbox (11.23296pt too wide) in paragraph at lines 3968--3975
+[]\TU/Crimson(0)/m/n/12 “In the end Beauchamp could stand it no longer, shouted
+|
+ []
+
+
+Overfull \hbox (3.21858pt too wide) in paragraph at lines 3968--3975
+\TU/Crimson(0)/m/n/12 but, since he was talking to Europeans, he had used saina
+ra|
+ []
+
+[116]
+Overfull \hbox (11.8225pt too wide) in paragraph at lines 3978--3980
+[]\TU/Crimson(0)/m/n/12 “I hear that the Europeans looked utterly flabbergasted
+.”|
+ []
+
+
+Overfull \hbox (1.88765pt too wide) in paragraph at lines 3992--4002
+\TU/Crimson(0)/m/n/12 of her face. Her eyes, set at an angle like a road cut th
+rough|
+ []
+
+[117]
+Overfull \hbox (8.42735pt too wide) in paragraph at lines 4013--4015
+[]\TU/Crimson(0)/m/n/12 When the ceremonials of her self-introduction had been|
+
+ []
+
+[118] [119]
+Overfull \hbox (5.76096pt too wide) in paragraph at lines 4089--4094
+[]\TU/Crimson(0)/m/n/12 “Baron Makiyama,” replied Waverhouse in even graver|
+ []
+
+
+Overfull \hbox (1.25716pt too wide) in paragraph at lines 4100--4102
+[]\TU/Crimson(0)/m/n/12 “Ah yes,” observes Waverhouse who is inwardly laugh-|
+ []
+
+
+Overfull \hbox (0.35805pt too wide) in paragraph at lines 4106--4108
+[]\TU/Crimson(0)/m/n/12 “Has he indeed?” exclaims Waverhouse as if surprised.|
+ []
+
+
+Overfull \hbox (0.73567pt too wide) in paragraph at lines 4109--4113
+\TU/Crimson(0)/m/n/12 all over the place. You will appreciate that, having to t
+hink|
+ []
+
+[120]
+Overfull \hbox (0.61804pt too wide) in paragraph at lines 4122--4124
+[]\TU/Crimson(0)/m/n/12 “Why do you want to know about Coldmoon?” replies|
+ []
+
+
+Overfull \hbox (1.24605pt too wide) in paragraph at lines 4135--4138
+[]\TU/Crimson(0)/m/n/12 “It’s not a question of my wanting to give her.” Madam|
+
+ []
+
+
+Overfull \hbox (9.42097pt too wide) in paragraph at lines 4135--4138
+\TU/Crimson(0)/m/n/12 be innumerable proposals, we couldn’t care less if he doe
+sn’t|
+ []
+
+
+Overfull \hbox (13.36604pt too wide) in paragraph at lines 4142--4144
+[]\TU/Crimson(0)/m/n/12 “But you’ve no reason to withhold information.” Madam|
+ []
+
+
+Overfull \hbox (9.57698pt too wide) in paragraph at lines 4150--4152
+[]\TU/Crimson(0)/m/n/12 “Tell me, did Coldmoon actually say he wanted to marry|
+
+ []
+
+[121]
+Overfull \hbox (1.78783pt too wide) in paragraph at lines 4177--4179
+[]\TU/Crimson(0)/m/n/12 “Are you aware of anything?” My master, looking non-|
+ []
+
+[122]
+Overfull \hbox (0.66493pt too wide) in paragraph at lines 4198--4205
+\TU/Crimson(0)/m/n/12 mality, their sense of humor irrepressibly asserts itself
+ and|
+ []
+
+[123]
+Overfull \hbox (4.29807pt too wide) in paragraph at lines 4228--4230
+[]\TU/Crimson(0)/m/n/12 “You must indeed be very well informed. Who on earth|
+ []
+
+
+Overfull \hbox (1.28738pt too wide) in paragraph at lines 4233--4235
+[]\TU/Crimson(0)/m/n/12 “Do you mean that man who owns that vile black cat?”|
+ []
+
+
+Overfull \hbox (5.33319pt too wide) in paragraph at lines 4242--4244
+\TU/Crimson(0)/m/n/12 I’m not in the least concerned with you, only with Mr. Co
+ld-|
+ []
+
+
+Overfull \hbox (0.68095pt too wide) in paragraph at lines 4249--4254
+\TU/Crimson(0)/m/n/12 you don’t want your conversations overheard, you should|
+ []
+
+
+Overfull \hbox (2.23099pt too wide) in paragraph at lines 4257--4262
+\TU/Crimson(0)/m/n/12 standing in this neighborhood. A vain, an idiotic fellow…
+” |
+ []
+
+[124]
+Overfull \hbox (0.75696pt too wide) in paragraph at lines 4271--4274
+\TU/Crimson(0)/m/n/12 Madam Conk in the exchange of scurrilities, and he lapses
+|
+ []
+
+
+Overfull \hbox (4.65404pt too wide) in paragraph at lines 4293--4296
+[]\TU/Crimson(0)/m/n/12 “Yes. Of course we couldn’t expect her to help us purel
+y|
+ []
+
+[125]
+Overfull \hbox (4.75294pt too wide) in paragraph at lines 4316--4317
+[]\TU/Crimson(0)/m/n/12 Unfortunately, Madam Conk does not understand this|
+ []
+
+[126]
+Overfull \hbox (7.13315pt too wide) in paragraph at lines 4359--4363
+\TU/Crimson(0)/m/n/12 swer your question with complete certainty, but since Col
+d-|
+ []
+
+
+Overfull \hbox (2.35318pt too wide) in paragraph at lines 4359--4363
+\TU/Crimson(0)/m/n/12 moon is engaged in such studies, the subject must undoubt
+-|
+ []
+
+[127]
+Overfull \hbox (4.61403pt too wide) in paragraph at lines 4396--4398
+[]\TU/Crimson(0)/m/n/12 Madam Conk again changes the subject. “If you should|
+ []
+
+
+Overfull \hbox (14.77055pt too wide) in paragraph at lines 4405--4407
+[]\TU/Crimson(0)/m/n/12 “Let me choose some for you,” offers Waverhouse, adding
+|
+ []
+
+
+Overfull \hbox (3.19319pt too wide) in paragraph at lines 4405--4407
+\TU/Crimson(0)/m/n/12 as he selects a picture postcard, “Here’s an interesting 
+one.” |
+ []
+
+
+Overfull \hbox (1.6087pt too wide) in paragraph at lines 4408--4413
+[]\TU/Crimson(0)/m/n/12 “Gracious! So he paints pictures as well? Rather clever
+|
+ []
+
+[128] [129]
+Overfull \hbox (7.70256pt too wide) in paragraph at lines 4484--4489
+\TU/Crimson(0)/m/n/12 their seats, Waverhouse exclaimed, “What on earth is that
+?”|
+ []
+
+
+Overfull \hbox (7.5732pt too wide) in paragraph at lines 4484--4489
+\TU/Crimson(0)/m/n/12 At the very same moment my master also ejaculated, “What-
+|
+ []
+
+[130]
+Overfull \hbox (7.27002pt too wide) in paragraph at lines 4501--4503
+[]\TU/Crimson(0)/m/n/12 Waverhouse immediately takes the cue. “And that nose,|
+ []
+
+
+Overfull \hbox (0.48201pt too wide) in paragraph at lines 4506--4508
+\TU/Crimson(0)/m/n/12 Quite extraordinary.” And Waverhouse laughs in genuine|
+ []
+
+
+Overfull \hbox (4.41693pt too wide) in paragraph at lines 4513--4519
+\TU/Crimson(0)/m/n/12 nineteenth century, becomes in the twentieth shop-soiled.
+”|
+ []
+
+[131]
+Overfull \hbox (2.27075pt too wide) in paragraph at lines 4520--4522
+[]\TU/Crimson(0)/m/n/12 “But, Mrs. Sneaze, to hear such tattle will do that Gol
+d-|
+ []
+
+
+Overfull \hbox (0.36649pt too wide) in paragraph at lines 4538--4541
+\TU/Crimson(0)/m/n/12 taken your doctorate. Don’t you agree, Mrs. Sneaze?” Wa-|
+
+ []
+
+
+Overfull \hbox (5.47697pt too wide) in paragraph at lines 4544--4550
+\TU/Crimson(0)/m/n/12 be ignorant of the fact, but in ancient times a certain G
+reek,|
+ []
+
+
+Overfull \hbox (13.77718pt too wide) in paragraph at lines 4544--4550
+\TU/Crimson(0)/m/n/12 Isocrates, produced major literary works at the age of ni
+nety-|
+ []
+
+
+Overfull \hbox (0.7476pt too wide) in paragraph at lines 4544--4550
+\TU/Crimson(0)/m/n/12 four. Similarly, Sophocles was almost a centenarian when|
+
+ []
+
+[132] [133] [134]
+Overfull \hbox (4.00226pt too wide) in paragraph at lines 4658--4659
+[]\TU/Crimson(0)/m/n/12 “And is that the very hat?” says my master with a smirk
+. |
+ []
+
+[135]
+Overfull \hbox (2.32811pt too wide) in paragraph at lines 4684--4686
+[]\TU/Crimson(0)/m/n/12 “I thought it was somehow queer,” says my master with|
+ []
+
+
+Overfull \hbox (2.13533pt too wide) in paragraph at lines 4694--4701
+\TU/Crimson(0)/m/n/12 confuse such calculated monkey-minded wickedness with|
+ []
+
+
+Overfull \hbox (1.99858pt too wide) in paragraph at lines 4702--4705
+\TU/Crimson(0)/m/n/12 Mrs. Sneaze, still laughing, remarks that it all comes do
+wn|
+ []
+
+
+Overfull \hbox (2.3585pt too wide) in paragraph at lines 4706--4727
+\TU/Crimson(0)/m/n/12 eyes on the Goldfield’s corner residence so I naturally h
+ave|
+ []
+
+
+Overfull \hbox (3.21292pt too wide) in paragraph at lines 4706--4727
+\TU/Crimson(0)/m/n/12 overheard her talk, having imagined her daughter’s beauty
+|
+ []
+
+[136]
+Overfull \hbox (9.13538pt too wide) in paragraph at lines 4728--4752
+\TU/Crimson(0)/m/n/12 consequential being that he’d never go out of his way mer
+ely|
+ []
+
+
+Overfull \hbox (8.35138pt too wide) in paragraph at lines 4728--4752
+\TU/Crimson(0)/m/n/12 Since Madam Conk makes impermissible use of such things|
+ []
+
+
+Overfull \hbox (2.52016pt too wide) in paragraph at lines 4728--4752
+\TU/Crimson(0)/m/n/12 plain rogues, student riff-raff, crone daily-help, midwiv
+es,|
+ []
+
+[137] [138]
+Overfull \hbox (0.27213pt too wide) in paragraph at lines 4795--4797
+[]\TU/Crimson(0)/m/n/12 Though I cannot pass my knowledge on, it is still cause
+|
+ []
+
+[139]
+Overfull \hbox (11.9036pt too wide) in paragraph at lines 4819--4822
+[]\TU/Crimson(0)/m/n/12 On the plastered part of its floor the wife of the rick
+shaw-|
+ []
+
+
+Overfull \hbox (4.54227pt too wide) in paragraph at lines 4832--4838
+\TU/Crimson(0)/m/n/12 books. If he knew even the least little thing about Mr. G
+old-|
+ []
+
+[140]
+Overfull \hbox (2.08604pt too wide) in paragraph at lines 4839--4842
+[]\TU/Crimson(0)/m/n/12 “So he’s not afraid of our Mr. Goldfield! What a cussed
+|
+ []
+
+
+Overfull \hbox (12.48119pt too wide) in paragraph at lines 4869--4890
+\TU/Crimson(0)/m/n/12 not there. Nor do I take cognizance of the rickshaw-woman
+,|
+ []
+
+[141]
+Overfull \hbox (7.35938pt too wide) in paragraph at lines 4900--4910
+\TU/Crimson(0)/m/n/12 taining as it does the entire universe in its three-inch 
+length,|
+ []
+
+[142]
+Overfull \hbox (0.41936pt too wide) in paragraph at lines 4930--4932
+\TU/Crimson(0)/m/n/12 his teaching specializes in an English Reader or somethin
+g|
+ []
+
+
+Overfull \hbox (6.21957pt too wide) in paragraph at lines 4935--4936
+[]\TU/Crimson(0)/m/n/12 I’m also struck by the vulgarity of that “gotta be” phr
+ase-|
+ []
+
+[143] [144] [145] [146]
+Overfull \hbox (1.7017pt too wide) in paragraph at lines 5072--5075
+[]\TU/Crimson(0)/m/n/12 Thereupon, with my usual stealthy steps, I tiptoed back
+|
+ []
+
+
+Overfull \hbox (9.13402pt too wide) in paragraph at lines 5076--5087
+\TU/Crimson(0)/m/n/12 from a sunlit mountaintop to some dark dismal grot. Whils
+t|
+ []
+
+[147]
+Overfull \hbox (2.35211pt too wide) in paragraph at lines 5107--5109
+[]\TU/Crimson(0)/m/n/12 “Were it just solely my concern, I wouldn’t mind tellin
+g|
+ []
+
+[148]
+Overfull \hbox (1.24898pt too wide) in paragraph at lines 5133--5137
+[]\TU/Crimson(0)/m/n/12 “As a matter of fact, my grandfather wore these strings
+|
+ []
+
+
+Overfull \hbox (1.82657pt too wide) in paragraph at lines 5133--5137
+\TU/Crimson(0)/m/n/12 at the time, not forty years back, when the Tokugawa were
+|
+ []
+
+
+Overfull \hbox (3.71457pt too wide) in paragraph at lines 5138--5142
+\TU/Crimson(0)/m/n/12 ics of hanging, that leading bachelor of science, Mr. Ava
+lon|
+ []
+
+
+Overfull \hbox (2.71965pt too wide) in paragraph at lines 5143--5146
+\TU/Crimson(0)/m/n/12 vice. However, there’s a certain person who says that the
+se|
+ []
+
+[149]
+Overfull \hbox (4.47873pt too wide) in paragraph at lines 5187--5192
+\TU/Crimson(0)/m/n/12 he comments “I suppose she’s asking if I’ll marry the dau
+gh-|
+ []
+
+[150]
+Overfull \hbox (21.02756pt too wide) in paragraph at lines 5221--5225
+[]\TU/Crimson(0)/m/n/12 They were thus thoroughly enjoying themselves by propos
+-|
+ []
+
+
+Overfull \hbox (17.67136pt too wide) in paragraph at lines 5221--5225
+\TU/Crimson(0)/m/n/12 the hedge came the voices of several people shouting “Whe
+re’s|
+ []
+
+
+Overfull \hbox (0.29156pt too wide) in paragraph at lines 5226--5229
+[]\TU/Crimson(0)/m/n/12 Both my master and Waverhouse look somewhat star-|
+ []
+
+[151]
+Overfull \hbox (8.56898pt too wide) in paragraph at lines 5257--5258
+[]\TU/Crimson(0)/m/n/12 “Yours doesn’t stick out much,” cuts in my master rathe
+r|
+ []
+
+
+Overfull \hbox (0.3796pt too wide) in paragraph at lines 5259--5269
+\TU/Crimson(0)/m/n/12 still less could it be described as countersunk or infund
+ibu-|
+ []
+
+
+Overfull \hbox (0.87297pt too wide) in paragraph at lines 5272--5281
+[]\TU/Crimson(0)/m/n/12 “As you will know, the act of blowing the nose involves
+|
+ []
+
+
+Overfull \hbox (3.1868pt too wide) in paragraph at lines 5272--5281
+\TU/Crimson(0)/m/n/12 such astrictive and, one might even venture to say, pleon
+as-|
+ []
+
+
+Overfull \hbox (11.02734pt too wide) in paragraph at lines 5272--5281
+\TU/Crimson(0)/m/n/12 to that stimulus and in accordance with the well-establis
+hed|
+ []
+
+[152]
+Overfull \hbox (3.1647pt too wide) in paragraph at lines 5300--5308
+\TU/Crimson(0)/m/n/12 of the lecturer himself; for such a purely personal appro
+ach|
+ []
+
+
+Overfull \hbox (6.962pt too wide) in paragraph at lines 5309--5310
+[]\TU/Crimson(0)/m/n/12 Coldmoon cries out in spontaneous admiration. “Hear,|
+ []
+
+
+Overfull \hbox (12.15292pt too wide) in paragraph at lines 5311--5326
+\TU/Crimson(0)/m/n/12 degree becomes thereby intimidating. Even terrifying. Spe
+c-|
+ []
+
+
+Overfull \hbox (11.00677pt too wide) in paragraph at lines 5311--5326
+\TU/Crimson(0)/m/n/12 tacular it may be, but simultaneously awesome, unapproach
+-|
+ []
+
+
+Overfull \hbox (12.65054pt too wide) in paragraph at lines 5311--5326
+\TU/Crimson(0)/m/n/12 magnificent, appears to me unduly rigid, unacceptably ste
+ep.|
+ []
+
+
+Overfull \hbox (0.48114pt too wide) in paragraph at lines 5311--5326
+\TU/Crimson(0)/m/n/12 Goldsmith, and William Thackeray were strikingly imper-|
+ []
+
+
+Overfull \hbox (0.49457pt too wide) in paragraph at lines 5311--5326
+\TU/Crimson(0)/m/n/12 that, viewed aesthetically, the nose of Citizen Waverhous
+e|
+ []
+
+[153]
+Overfull \hbox (7.46736pt too wide) in paragraph at lines 5327--5329
+[]\TU/Crimson(0)/m/n/12 Coldmoon and my master greet this fantastication with|
+ []
+
+
+Overfull \hbox (0.71695pt too wide) in paragraph at lines 5327--5329
+\TU/Crimson(0)/m/n/12 peals of appreciative laughter, and even Waverhouse joins
+|
+ []
+
+
+Overfull \hbox (2.04738pt too wide) in paragraph at lines 5332--5336
+\TU/Crimson(0)/m/n/12 ing Waverhouse in the use of language which only recently
+|
+ []
+
+
+Overfull \hbox (3.71138pt too wide) in paragraph at lines 5343--5347
+\TU/Crimson(0)/m/n/12 exhibition of nasal development which might be organized|
+
+ []
+
+[154]
+Overfull \hbox (2.29936pt too wide) in paragraph at lines 5348--5362
+\TU/Crimson(0)/m/n/12 any regard for the configuration of such other major item
+s|
+ []
+
+
+Overfull \hbox (9.53323pt too wide) in paragraph at lines 5375--5385
+[]\TU/Crimson(0)/m/n/12 Waverhouse resumes. “It is a great, if unexpected, hono
+r|
+ []
+
+
+Overfull \hbox (2.32303pt too wide) in paragraph at lines 5375--5385
+\TU/Crimson(0)/m/n/12 ticipant. It is, indeed, a happiness unlooked for, a sere
+ndip-|
+ []
+
+
+Overfull \hbox (2.1572pt too wide) in paragraph at lines 5375--5385
+\TU/Crimson(0)/m/n/12 ity. To be worthy of our beautiful lady’s patronage I wou
+ld|
+ []
+
+
+Overfull \hbox (1.17935pt too wide) in paragraph at lines 5375--5385
+\TU/Crimson(0)/m/n/12 gladly alter the academic style of this discourse into a 
+more|
+ []
+
+[155]
+Overfull \hbox (2.12735pt too wide) in paragraph at lines 5386--5387
+[]\TU/Crimson(0)/m/n/12 Coldmoon responds to the mention of mechanics with|
+ []
+
+
+Overfull \hbox (3.08202pt too wide) in paragraph at lines 5410--5433
+\TU/Crimson(0)/m/n/12 forms are themselves also transmissible. It is consequent
+ly|
+ []
+
+[156] [157]
+Overfull \hbox (2.50735pt too wide) in paragraph at lines 5448--5453
+[]\TU/Crimson(0)/m/n/12 Only my master continues to take the matter seriously.|
+
+ []
+
+
+Overfull \hbox (5.72362pt too wide) in paragraph at lines 5460--5463
+\TU/Crimson(0)/m/n/12 matching violence, “Hold your tongues. What do you think|
+
+ []
+
+
+Overfull \hbox (7.71002pt too wide) in paragraph at lines 5470--5472
+[]\TU/Crimson(0)/m/n/12 Waverhouse claps his hands in pure delight. “Up guards|
+
+ []
+
+
+Overfull \hbox (2.01317pt too wide) in paragraph at lines 5473--5474
+[]\TU/Crimson(0)/m/n/12 Coldmoon sits and grins, twisting his purple fastening-
+|
+ []
+
+[158] [158
+
+] [158] [159] [160] [161] [162]
 
 LaTeX Font Warning: Font shape `TU/ipamp.ttf(0)/m/it' undefined
-(Font)              using `TU/ipamp.ttf(0)/m/n' instead on input line 5418.
+(Font)              using `TU/ipamp.ttf(0)/m/n' instead on input line 5499.
 
-[85] [86] [87] [88] [89] [90] [91] [92
+[163] [164] [165] [166] [167] [168] [169] [170]
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Unifont' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [171] [172] [173] [174]
+[175] [176
 
-] [93] [94] [95] [96] [97] [98] [99]
-[100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
-[112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122
+] [177] [178] [179] [180] [181] [182] [183] [184] [185] [186]
+[187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197] [198]
+[199] [200] [201] [202] [203] [204] [205] [206] [207] [208] [209] [210]
+[211] [212] [213] [214] [215] [216] [217] [218] [219] [220] [221] [222]
+[223] [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234]
+[235
 
-] [123]
-[124] [125] [126] [127] [128]
+] [236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246]
+[247]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 5798.
+(Font)              <12> on input line 5879.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 5798.
- [129] [130] [131] [132] [133] [134] [135]
-[136] [137] [138] [139] [140] [141] [142] [143] [144] [145] (./vol-01.aux)
+(Font)              <8> on input line 5879.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5879.
+ (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+) [248] [249]
+[250] [251] [252] [253] [254] [255] [256] [257] [258] [259] [260] [261]
+[262] [263] [264] [265] [266] [267] [268] [269] [270] [271] [272] [273]
+[274] [275] [276] [277] [278] [279] [280] (./vol-01.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 19542 strings out of 493010
- 399804 string characters out of 6140133
- 588427 words of memory out of 5000000
- 23416 multiletter control sequences out of 15000+600000
- 533438 words of font info for 45 fonts, out of 8000000 for 9000
+ 21307 strings out of 493010
+ 429837 string characters out of 6140133
+ 641475 words of memory out of 5000000
+ 25128 multiletter control sequences out of 15000+600000
+ 536183 words of font info for 54 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 46i,5n,65p,10410b,254s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,11n,65p,10410b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on vol-01.pdf (145 pages).
+Output written on vol-01.pdf (284 pages).
