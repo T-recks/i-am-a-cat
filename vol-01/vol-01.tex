@@ -2,8 +2,8 @@
 \title{I am a Cat}
 \author{Natsume Sōseki}
 
-% Debug overfull hbox
-\overfullrule=1mm
+% hbox and tolerance settings
+%\overfullrule=1mm
 \hfuzz=2pt
 \pretolerance=200
 \tolerance=1500
@@ -47,9 +47,11 @@
 
 % Space between lines
 \linespread{1.1}
+
 % Avoid widows and clubs
 \widowpenalty=10000
 \clubpenalty=10000
+
 % Page lengths vary: alternative is \flushbottom (line spacing varies)
 \raggedbottom
 
@@ -66,18 +68,13 @@
 \usepackage[T1]{fontenc}
 \usepackage{fontspec, newunicodechar}
 \setmainfont{Crimson}
-%\newfontfamily\myenglishfont{Crimson}
-%\newfontfamily\myjapanesefont{ipamp.ttf}
 
 % CJK Setup
 \usepackage{xeCJK}
-%\usepackage{ruby}
-%\renewcommand{\rubysize}{0.5}
-%\renewcommand{\rubysep}{-0.2ex}  
 \setCJKmainfont{ipamp.ttf}
 \setCJKsansfont{ipagp.ttf}
 
-% Fallback font for missing ○ character
+% Fallback font for missing characters
 \newfontfamily{\fallbackfont}{Unifont}
 \DeclareTextFontCommand{\textfallback}{\fallbackfont}
 \newunicodechar{○}{\textfallback{○}}
@@ -144,7 +141,6 @@
 \cftaddtitleline{toc}{part}{I am a Cat}{}
 \part*{I am a Cat}
 \chapter*{\centering I}
-%\pagenumbering{arabic}
 \addcontentsline{toc}{chapter}{I}
 I am a cat. As yet I have no name. I've no idea where I was born. All I
 remember is that I was miaowing in a dampish dark place when, for the
@@ -5517,8 +5513,6 @@ that he's been made to make a ninny of himself.
 \cftaddtitleline{toc}{part}{吾輩は猫である}{}
 \part*{吾輩は猫である}
 \chapter*{\centering 一}
-%\addtocounter{page}{146}
-%\pagenumbering{arabic}
 \addcontentsline{toc}{chapter}{一}
 吾輩は猫である。名前はまだ無い。
 
