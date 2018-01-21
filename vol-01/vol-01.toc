@@ -2,8 +2,8 @@
 \contentsline {part}{I am a Cat}{}
 \contentsline {chapter}{I}{3}
 \contentsline {chapter}{II}{21}
-\contentsline {chapter}{III}{85}
+\contentsline {chapter}{III}{87}
 \contentsline {part}{吾輩は猫である}{}
-\contentsline {chapter}{一}{147}
-\contentsline {chapter}{二}{161}
-\contentsline {chapter}{三}{207}
+\contentsline {chapter}{一}{149}
+\contentsline {chapter}{二}{163}
+\contentsline {chapter}{三}{209}

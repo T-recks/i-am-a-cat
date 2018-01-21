@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.12.13)  22 DEC 2017 19:17
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.12.13)  21 JAN 2018 01:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1338,73 +1338,73 @@ shell
 
 [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56]
 [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71]
-[72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85
+[72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86]
+[87
 
-] [86]
-[87] [88] [89] [90] [91] [92] [93] [94] [95]
-Underfull \hbox (badness 1028) in paragraph at lines 3597--3599
+] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97]
+Underfull \hbox (badness 1028) in paragraph at lines 3598--3600
 []\TU/Crimson(0)/m/n/12 “A woman cannot say what’s conventional or unconven-
  []
 
-[96] [97] [98]
-Underfull \hbox (badness 1436) in paragraph at lines 3729--3740
+[98] [99] [100]
+Underfull \hbox (badness 1436) in paragraph at lines 3730--3741
 []\TU/Crimson(0)/m/n/12 “Hanging as a death penalty appears to have originated
  []
 
-[99] [100]
-Underfull \hbox (badness 1400) in paragraph at lines 3816--3819
+[101] [102]
+Underfull \hbox (badness 1400) in paragraph at lines 3817--3820
 []\TU/Crimson(0)/m/n/12 “They would then look something like those ball-shaped
  []
 
-[101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111] [112]
-[113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124]
-[125] [126]
-Underfull \hbox (badness 1496) in paragraph at lines 4857--4859
+[103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114]
+[115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126]
+[127] [128]
+Underfull \hbox (badness 1496) in paragraph at lines 4856--4858
 []\TU/Crimson(0)/m/n/12 “That teacher, doesn’t he really even know our master’s
 
  []
 
-[127] [128] [129] [130] [131] [132] [133]
-Underfull \hbox (badness 1019) in paragraph at lines 5139--5141
+[129] [130] [131] [132] [133] [134] [135] [136]
+Underfull \hbox (badness 1019) in paragraph at lines 5138--5140
 []\TU/Crimson(0)/m/n/12 “Were it just solely my concern, I wouldn’t mind tellin
 g
  []
 
-[134] [135] [136] [137] [138] [139] [140] [141] [142] [143]
-Overfull \hbox (3.03017pt too wide) in paragraph at lines 5505--5506
+[137] [138] [139] [140] [141] [142] [143] [144] [145]
+Overfull \hbox (3.03017pt too wide) in paragraph at lines 5502--5503
 []\TU/Crimson(0)/m/n/12 Coldmoon sits and grins, twisting his purple fastening-
 strings. 
  []
 
-[144] [144
+[146] [146
 
-] [144] [145] [146] [147
+] [146] [147] [148] [149
 
-] [148] [149]
+] [150] [151]
 
 LaTeX Font Warning: Font shape `TU/ipamp.ttf(0)/m/it' undefined
-(Font)              using `TU/ipamp.ttf(0)/m/n' instead on input line 5531.
+(Font)              using `TU/ipamp.ttf(0)/m/n' instead on input line 5528.
 
-[150] [151] [152] [153] [154] [155]
+[152] [153] [154] [155] [156] [157]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Unifont' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [156] [157] [158] [159] [160] [161
+ [158] [159] [160] [161] [162] [163
 
 ]
-[162] [163] [164] [165] [166] [167] [168] [169] [170] [171] [172] [173]
-[174] [175] [176] [177] [178] [179] [180] [181] [182] [183] [184] [185]
-[186] [187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197]
-[198] [199] [200] [201] [202] [203] [204] [205] [206] [207
+[164] [165] [166] [167] [168] [169] [170] [171] [172] [173] [174] [175]
+[176] [177] [178] [179] [180] [181] [182] [183] [184] [185] [186] [187]
+[188] [189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199]
+[200] [201] [202] [203] [204] [205] [206] [207] [208] [209
 
-] [208] [209]
-[210] [211] [212] [213] [214] [215] [216] [217] [218] [219] [220] [221]
-[222] [223] [224] [225] [226] [227] [228] [229] [230] [231] [232] [233]
-[234] [235] [236] [237] [238] [239] [240] [241] [242] [243] [243
+] [210] [211]
+[212] [213] [214] [215] [216] [217] [218] [219] [220] [221] [222] [223]
+[224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [245
 
-] [243]
-[243] (./vol-01.aux)
+] [245]
+[245] (./vol-01.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1418,4 +1418,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  46i,11n,65p,10410b,364s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on vol-01.pdf (254 pages).
+Output written on vol-01.pdf (256 pages).
